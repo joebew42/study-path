@@ -1,5 +1,9 @@
 # Study Path
 
+## Getting Started
+
+- [The Pomodoro Technique](http://pomodorotechnique.com/)
+
 ## Week 1: Introduction to TDD
 
 - TDD by example: The Money Example

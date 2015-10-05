@@ -43,11 +43,12 @@
 ## Week 6: Hands On Erlang
 
 - [Programming Erlang (2nd Edition)](https://pragprog.com/book/jaerlang2/programming-erlang)
-- [TheBowlingGame Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
-- [FizzBuzz Kata](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
-- [StringCalculator Kata](http://osherove.com/tdd-kata-1/)
-- [Tennis Kata](http://codingdojo.org/cgi-bin/index.pl?KataTennis)
-- [Spawned Shelter!](http://spawnedshelter.com/)
+- Other useful resources about Erlang: [Spawned Shelter!](http://spawnedshelter.com/)
+- Try these Katas in Erlang:
+  - [TheBowlingGame Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+  - [FizzBuzz Kata](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
+  - [StringCalculator Kata](http://osherove.com/tdd-kata-1/)
+  - [Tennis Kata](http://codingdojo.org/cgi-bin/index.pl?KataTennis)
 
 ## Week 7: Deploy your application
 

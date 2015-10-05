@@ -49,6 +49,7 @@
 - FizzBuzz Kata
 - StringCalculator Kata
 - Tennis Kata
+- [Spawned Shelter!](http://spawnedshelter.com/)
 
 ## Week 7: Deploy your application
 

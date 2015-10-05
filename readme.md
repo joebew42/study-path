@@ -1,5 +1,3 @@
-# Study Path
-
 ## Getting Started
 
 - [The Pomodoro Technique](http://pomodorotechnique.com/)

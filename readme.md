@@ -38,7 +38,7 @@
 - [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
 - The Pragmatic Programmer: chap. 2, 5, 6
 - Clean Code: chap. 2, 3, 6, 7, 10
-- SOLID principles
+- [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
 - Start the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
   - find SOLID violations
 

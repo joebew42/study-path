@@ -54,9 +54,10 @@
 ## Week 7: Deploy your application
 
 - Write an `example application` in Erlang
-- Find a way to setup a development environment (ex. Vagrant/Ansible)
-- Find a way to setup a CI environment (ex. Travis)
-- Find a way to deploy it (ex. Heroku)
+- Find a way to organize your work in [User Stories](http://www.agilemodeling.com/artifacts/userStory.htm) (e.g. Trello)
+- Find a way to setup a development environment (e.g. Vagrant/Ansible)
+- Find a way to setup a CI environment (e.g. Travis)
+- Find a way to deploy it (e.g. Heroku)
 - Find a way to test the deployed application
 - [Continous Delivery](http://martinfowler.com/bliki/ContinuousDelivery.html)
 - Describe your Continuous Delivery process (Can it be improved ? How ?)

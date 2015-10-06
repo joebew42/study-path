@@ -47,6 +47,7 @@
 - [Programming Erlang (2nd Edition)](https://pragprog.com/book/jaerlang2/programming-erlang)
 - Other useful resources about Erlang: [Spawned Shelter!](http://spawnedshelter.com/)
 - Try these Katas in Erlang:
+  - [RomanNumerals Kata](http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals)
   - [TheBowlingGame Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
   - [FizzBuzz Kata](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
   - [StringCalculator Kata](http://osherove.com/tdd-kata-1/)

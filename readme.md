@@ -17,6 +17,7 @@
   - Code Coverage
   - Add the new feature
   - No refactoring!
+- [Working Effectively with Legacy Tests](http://natpryce.com/articles/000813.html)
 
 ## Week 3: Refactoring
 

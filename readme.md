@@ -32,15 +32,15 @@
 - [Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882): chap. 8: Boundaries
 - [GOOS](http://www.growing-object-oriented-software.com/): Part I and Part II
-- [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530): Part III
 - [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
+- [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530): Part III
 
 ## Week 5: Clean code
 
+- [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
 - [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
 - [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer): chap. 2, 5, 6
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882): chap. 2, 3, 6, 7, 10
-- [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
 - Start the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
   - find SOLID violations
 

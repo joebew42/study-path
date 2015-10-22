@@ -13,7 +13,7 @@
 ## Week 2: Working with Legacy Code
 
 - [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052): chap. 8: How Do I Add a Feature?
-- Start the [GildedRose Kata](https://github.com/joebew42/GildedRose)
+- Start the [GildedRoseKata](https://github.com/joebew42/GildedRose)
   - Code Coverage
   - Add the new feature
   - No refactoring!
@@ -29,10 +29,13 @@
   - Chapter 3: Bad Smells in Code
 - [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
 - Takes the code of the week 2 and try to do refactoring (find code smells)
-- Try the [TennisRefactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) (find code smells)
+- Try the [TennisRefactoringKata](https://github.com/emilybache/Tennis-Refactoring-Kata) (find code smells)
 
 ## Week 4: TDD and "Friends"
 
+- Try to learn and repeat these Katas autonomously
+  - [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+  - [TheRomanNumeralsKata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
 - [Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882): chap. 8: Boundaries
 - [GOOS](http://www.growing-object-oriented-software.com/): Part I and Part II
@@ -53,11 +56,11 @@
 - [Programming Erlang (2nd Edition)](https://pragprog.com/book/jaerlang2/programming-erlang)
 - Other useful resources about Erlang: [Spawned Shelter!](http://spawnedshelter.com/)
 - Try these Katas in Erlang:
-  - [RomanNumerals Kata](http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals)
-  - [TheBowlingGame Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
-  - [FizzBuzz Kata](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
-  - [StringCalculator Kata](http://osherove.com/tdd-kata-1/)
-  - [Tennis Kata](http://codingdojo.org/cgi-bin/index.pl?KataTennis)
+  - [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+  - [RomanNumeralsKata](http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals)
+  - [FizzBuzzKata](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
+  - [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
+  - [TennisKata](http://codingdojo.org/cgi-bin/index.pl?KataTennis)
 
 ## Week 7: Deploy your application
 

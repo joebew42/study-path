@@ -22,8 +22,11 @@
 ## Week 3: Refactoring
 
 - [Martin Fowler @ OOP2014 "Workflows of Refactoring"](https://www.youtube.com/watch?v=vqEg37e4Mkw)
-- [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) (chap. 1, 2, 3)
-  - Follow the examples
+- [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+  - Chapter 1: Refactoring, a First Example
+    - [Example Code](https://github.com/joebew42/refactoring-day/tree/master/movie-rental/java)
+  - Chapter 2: Principles in Refactoring
+  - Chapter 3: Bad Smells in Code
 - [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
 - Takes the code of the week 2 and try to do refactoring (find code smells)
 - Try the [TennisRefactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) (find code smells)

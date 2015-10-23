@@ -28,6 +28,7 @@
   - Chapter 2: Principles in Refactoring
   - Chapter 3: Bad Smells in Code
 - [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
+  - [Example Code](https://github.com/sandromancuso/trip-service-kata)
 - Takes the code of the week 2 and try to do refactoring (find code smells)
 - Try the [TennisRefactoringKata](https://github.com/emilybache/Tennis-Refactoring-Kata) (find code smells)
 

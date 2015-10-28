@@ -54,11 +54,11 @@
 ## Week 5: Clean code
 
 - [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
-  - SRP: Single Responsability Principle
-  - OCP: Open Closed Principle
-  - LSP: Liskov Substitution Principle
-  - ISP: Interface Segregation Principle
-  - DIP: Dependency Inversion Principle
+  - [SRP: Single Responsability Principle](http://www.objectmentor.com/resources/articles/srp.pdf)
+  - [OCP: Open-Closed Principle](http://www.objectmentor.com/resources/articles/ocp.pdf)
+  - [LSP: Liskov Substitution Principle](http://www.objectmentor.com/resources/articles/lsp.pdf)
+  - [ISP: Interface Segregation Principle](http://www.objectmentor.com/resources/articles/isp.pdf)
+  - [DIP: Dependency Inversion Principle](http://www.objectmentor.com/resources/articles/dip.pdf)
 - [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
 - [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
   - Chapter 2: A Pragmatic Approach

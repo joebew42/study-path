@@ -65,12 +65,12 @@
   - Chapter 5: Bend or Break
   - Chapter 6: While You Are Coding
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-  - 1
-  - 2
-  - 3
-  - 6
-  - 7
-  - 10
+  - Chapter 1: Clean Code
+  - Chapter 2: Meaningful Names
+  - Chapter 3: Functions
+  - Chapter 6: Objects and Data Structures
+  - Chapter 7: Error Handling
+  - Chapter 10: Classes
 - Start the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
   - find SOLID violations
 

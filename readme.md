@@ -54,9 +54,23 @@
 ## Week 5: Clean code
 
 - [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+  - SRP: Single Responsability Principle
+  - OCP: Open Closed Principle
+  - LSP: Liskov Substitution Principle
+  - ISP: Interface Segregation Principle
+  - DIP: Dependency Inversion Principle
 - [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
-- [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer): chap. 2, 5, 6
-- [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882): chap. 2, 3, 6, 7, 10
+- [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+  - Chapter 2: A Pragmatic Approach
+  - Chapter 5: Bend or Break
+  - Chapter 6: While You Are Coding
+- [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+  - 1
+  - 2
+  - 3
+  - 6
+  - 7
+  - 10
 - Start the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
   - find SOLID violations
 

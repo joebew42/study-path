@@ -98,12 +98,12 @@
 
 ## Week 8: Refinements and IDD
 
+- [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+  - Chapter 12: Emergence
 - Crafted Design:
   - https://vimeo.com/107963074
   - https://vimeo.com/128596005
   - [Notes](http://joebew42.github.io/notes/20150712SandroMancuso_CraftedDesign.txt)
-- [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-  - Chapter 12: Emergence
 - Looking at the `example application` of the week 7:
   - What are your considerations ?
   - Can you apply `IDD` ? If yes propose the changes.

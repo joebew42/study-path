@@ -38,8 +38,16 @@
   - [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
   - [TheRomanNumeralsKata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
 - [Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
-- [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882): chap. 8: Boundaries
-- [GOOS](http://www.growing-object-oriented-software.com/): Part I and Part II
+- [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+  - Chapter 8: Boundaries
+- [Growing Object Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/)
+  - Chapter 1: What Is the Point of Test-Driven Development?
+  - Chapter 2: Test-Driven Development with Objects
+  - Chapter 4: Kick-Starting the Test-Driven Cycle
+  - Chapter 5: Maintaining the Test-Driven Cycle
+  - Chapter 6: Object-Oriented Style
+  - Chapter 7: Achieving Object-Oriented Design
+  - Chapter 8: Building on Third-Party Code
 - [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
 - [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530): Part III
 

@@ -49,7 +49,6 @@
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - Chapter 8: Boundaries
 - [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
-- [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530): Part III
 
 ## Week 5: Clean code
 
@@ -98,6 +97,8 @@
 
 ## Week 8: Refinements and IDD
 
+- [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
+  - Patterns for Test-Driven Development
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - Chapter 12: Emergence
 - Crafted Design:

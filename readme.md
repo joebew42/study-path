@@ -53,10 +53,6 @@
 ## Week 5: Clean code
 
 - [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
-- [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
-  - Chapter 2: A Pragmatic Approach
-  - Chapter 5: Bend or Break
-  - Chapter 6: While You Are Coding
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - Chapter 1: Clean Code
   - Chapter 2: Meaningful Names
@@ -64,6 +60,10 @@
   - Chapter 6: Objects and Data Structures
   - Chapter 7: Error Handling
   - Chapter 10: Classes
+- [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+  - Chapter 2: A Pragmatic Approach
+  - Chapter 5: Bend or Break
+  - Chapter 6: While You Are Coding
 - [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
   - [SRP: Single Responsability Principle](http://www.objectmentor.com/resources/articles/srp.pdf)
   - [OCP: Open-Closed Principle](http://www.objectmentor.com/resources/articles/ocp.pdf)

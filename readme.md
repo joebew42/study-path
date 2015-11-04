@@ -52,12 +52,6 @@
 
 ## Week 5: Clean code
 
-- [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
-  - [SRP: Single Responsability Principle](http://www.objectmentor.com/resources/articles/srp.pdf)
-  - [OCP: Open-Closed Principle](http://www.objectmentor.com/resources/articles/ocp.pdf)
-  - [LSP: Liskov Substitution Principle](http://www.objectmentor.com/resources/articles/lsp.pdf)
-  - [ISP: Interface Segregation Principle](http://www.objectmentor.com/resources/articles/isp.pdf)
-  - [DIP: Dependency Inversion Principle](http://www.objectmentor.com/resources/articles/dip.pdf)
 - [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
 - [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
   - Chapter 2: A Pragmatic Approach
@@ -70,6 +64,12 @@
   - Chapter 6: Objects and Data Structures
   - Chapter 7: Error Handling
   - Chapter 10: Classes
+- [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+  - [SRP: Single Responsability Principle](http://www.objectmentor.com/resources/articles/srp.pdf)
+  - [OCP: Open-Closed Principle](http://www.objectmentor.com/resources/articles/ocp.pdf)
+  - [LSP: Liskov Substitution Principle](http://www.objectmentor.com/resources/articles/lsp.pdf)
+  - [ISP: Interface Segregation Principle](http://www.objectmentor.com/resources/articles/isp.pdf)
+  - [DIP: Dependency Inversion Principle](http://www.objectmentor.com/resources/articles/dip.pdf)
 - Start the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
   - find SOLID violations
 

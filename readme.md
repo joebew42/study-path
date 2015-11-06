@@ -49,6 +49,8 @@
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - Chapter 8: Boundaries
 - [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
+- Try the [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
+  - With [interactions](http://osherove.com/tdd-kata-2/)
 
 ## Week 5: Clean code
 

@@ -88,12 +88,14 @@
 
 ## Week 7: Deploy your application
 
+- Read [The Twelve-Factor App](http://12factor.net/) before you start
 - Write an `example application` in Erlang
-- Find a way to organize your work in [User Stories](http://www.agilemodeling.com/artifacts/userStory.htm) (e.g. Trello)
-- Find a way to setup a development environment (e.g. Vagrant/Ansible)
-- Find a way to setup a CI environment (e.g. Travis)
-- Find a way to deploy it (e.g. Heroku)
-- Find a way to test the deployed application
+- Publish the code on a `GitHub` repository
+- Organize your work in [User Stories](http://www.agilemodeling.com/artifacts/userStory.htm) (e.g. Trello)
+- Setup a development environment (e.g. Vagrant/Ansible)
+- Setup a CI environment (e.g. Travis)
+- Deploy your application (e.g. Heroku)
+- Test the deployed application
 - [Continous Delivery](http://martinfowler.com/bliki/ContinuousDelivery.html)
 - Describe your Continuous Delivery process (Can it be improved ? How ?)
 
@@ -110,3 +112,6 @@
 - Looking at the `example application` of the week 7:
   - What are your considerations ?
   - Can you apply `IDD` ? If yes propose the changes.
+- Further topics
+  - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
+  - [Bryan Hunter - CQRS with Erlang](https://vimeo.com/97318824)

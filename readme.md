@@ -84,6 +84,7 @@
   - [RomanNumeralsKata](http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals)
   - [FizzBuzzKata](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
   - [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
+    - Follow this [video](https://vimeo.com/8206748)
   - [TennisKata](http://codingdojo.org/cgi-bin/index.pl?KataTennis)
 
 ## Week 7: Deploy your application

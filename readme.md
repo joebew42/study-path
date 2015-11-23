@@ -91,7 +91,7 @@
 ## Week 7: Deploy your application
 
 - Read [The Twelve-Factor App](http://12factor.net/) before you start
-- Write an `example application` in Erlang
+- Write an `example application`
 - Publish the code on a `GitHub` repository
 - Organize your work in [User Stories](http://www.agilemodeling.com/artifacts/userStory.htm) (e.g. Trello)
 - Setup a development environment (e.g. Vagrant/Ansible)

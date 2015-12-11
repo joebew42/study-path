@@ -14,7 +14,7 @@
 ## Week 2: Working with Legacy Code
 
 - [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
-  - Chapter. 8: How Do I Add a Feature?
+  - Chapter 8: How Do I Add a Feature ?
 - Start the [GildedRoseKata](https://github.com/joebew42/GildedRose)
   - Code Coverage
   - Add the new feature
@@ -112,6 +112,7 @@
   - https://vimeo.com/107963074
   - https://vimeo.com/128596005
   - [Notes](http://joebew42.github.io/notes/20150712SandroMancuso_CraftedDesign.txt)
+- [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)
 - Looking at the `example application` of the week 7:
   - What are your considerations ?
   - Can you apply `IDD` ? If yes propose the changes.

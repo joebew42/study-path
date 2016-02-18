@@ -5,13 +5,35 @@
 - [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)
 - [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 
-## Week 1: Introduction to TDD
+## Week 1: SOLID and Clean Code
+
+- [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+  - [SRP: Single Responsability Principle](http://www.objectmentor.com/resources/articles/srp.pdf)
+  - [OCP: Open-Closed Principle](http://www.objectmentor.com/resources/articles/ocp.pdf)
+  - [LSP: Liskov Substitution Principle](http://www.objectmentor.com/resources/articles/lsp.pdf)
+  - [ISP: Interface Segregation Principle](http://www.objectmentor.com/resources/articles/isp.pdf)
+  - [DIP: Dependency Inversion Principle](http://www.objectmentor.com/resources/articles/dip.pdf)
+- Start the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
+  - find SOLID violations
+- [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+  - Chapter 1: Clean Code
+  - Chapter 2: Meaningful Names
+  - Chapter 3: Functions
+  - Chapter 6: Objects and Data Structures
+  - Chapter 7: Error Handling
+  - Chapter 10: Classes
+- [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+  - Chapter 2: A Pragmatic Approach
+  - Chapter 5: Bend or Break
+  - Chapter 6: While You Are Coding
+
+## Week 2: Introduction to TDD
 
 - [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530): The Money Example
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - Chapter 9: Unit Tests
 
-## Week 2: Working with Legacy Code
+## Week 3: Working with Legacy Code
 
 - [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
   - Chapter 8: How Do I Add a Feature ?
@@ -21,7 +43,7 @@
   - No refactoring!
 - [Working Effectively with Legacy Tests](http://natpryce.com/articles/000813.html)
 
-## Week 3: Refactoring
+## Week 4: Refactoring
 
 - [Martin Fowler @ OOP2014 "Workflows of Refactoring"](https://www.youtube.com/watch?v=vqEg37e4Mkw)
 - [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
@@ -34,8 +56,10 @@
 - Takes the code of the week 2 and try to do refactoring (find code smells)
 - Try the [TennisRefactoringKata](https://github.com/emilybache/Tennis-Refactoring-Kata) (find code smells)
 
-## Week 4: TDD and "Friends"
+## Week 5: TDD and "Friends"
 
+- [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
+- [Good Design is Easily-Learned](http://blog.scottbellware.com/2009/01/good-design-is-easily-learned.html)
 - Try to learn and repeat these Katas autonomously
   - [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
   - [TheRomanNumeralsKata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
@@ -54,33 +78,14 @@
 - Try the [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
   - With [interactions](http://osherove.com/tdd-kata-2/)
 
-## Week 5: Clean code
-
-- [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
-- [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-  - Chapter 1: Clean Code
-  - Chapter 2: Meaningful Names
-  - Chapter 3: Functions
-  - Chapter 6: Objects and Data Structures
-  - Chapter 7: Error Handling
-  - Chapter 10: Classes
-- [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
-  - Chapter 2: A Pragmatic Approach
-  - Chapter 5: Bend or Break
-  - Chapter 6: While You Are Coding
-- [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
-  - [SRP: Single Responsability Principle](http://www.objectmentor.com/resources/articles/srp.pdf)
-  - [OCP: Open-Closed Principle](http://www.objectmentor.com/resources/articles/ocp.pdf)
-  - [LSP: Liskov Substitution Principle](http://www.objectmentor.com/resources/articles/lsp.pdf)
-  - [ISP: Interface Segregation Principle](http://www.objectmentor.com/resources/articles/isp.pdf)
-  - [DIP: Dependency Inversion Principle](http://www.objectmentor.com/resources/articles/dip.pdf)
-- Start the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
-  - find SOLID violations
 
 ## Week 6: Hands On Erlang
 
-- [Programming Erlang (2nd Edition)](https://pragprog.com/book/jaerlang2/programming-erlang)
-- Other useful resources about Erlang: [Spawned Shelter!](http://spawnedshelter.com/)
+*You are free to replace Erlang with whatever programming language you wants to dive in*
+
+- Erlang resources
+  - [Programming Erlang (2nd Edition)](https://pragprog.com/book/jaerlang2/programming-erlang)
+  - Other useful resources about Erlang: [Spawned Shelter!](http://spawnedshelter.com/)
 - Try these Katas in Erlang:
   - [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
   - [RomanNumeralsKata](http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals)
@@ -119,3 +124,4 @@
 - Further topics
   - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
   - [Bryan Hunter - CQRS with Erlang](https://vimeo.com/97318824)
+- Try the [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata)

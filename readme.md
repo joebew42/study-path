@@ -113,10 +113,10 @@
   - Patterns for Test-Driven Development
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - Chapter 12: Emergence
-- Crafted Design:
-  - https://vimeo.com/107963074
-  - https://vimeo.com/128596005
-  - [Notes](http://joebew42.github.io/notes/20150712SandroMancuso_CraftedDesign.txt)
+- Interaction Driven Design:
+  - [Sandro Mancuso @ Lean Agile Scotland "Crafted Design"](https://vimeo.com/107963074)
+  - [Sandro Mancuso @ Jax London 2014 "Crafted Design"](https://vimeo.com/128596005)
+  - [Notes about IDD](http://joebew42.github.io/notes/20150712SandroMancuso_CraftedDesign.txt)
 - [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)
 - Looking at the `example application` of the week 7:
   - What are your considerations ?

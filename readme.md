@@ -5,7 +5,7 @@
 - [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)
 - [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 
-## Week 1: SOLID and Clean Code
+## Session 1: SOLID and Clean Code
 
 - [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
   - [SRP: Single Responsability Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
@@ -27,13 +27,13 @@
   - Chapter 5: Bend or Break
   - Chapter 6: While You Are Coding
 
-## Week 2: Introduction to TDD
+## Session 2: Introduction to TDD
 
 - [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530): The Money Example
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - Chapter 9: Unit Tests
 
-## Week 3: Working with Legacy Code
+## Session 3: Working with Legacy Code
 
 - [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
   - Chapter 8: How Do I Add a Feature ?
@@ -43,7 +43,7 @@
   - No refactoring!
 - [Working Effectively with Legacy Tests](http://natpryce.com/articles/000813.html)
 
-## Week 4: Refactoring
+## Session 4: Refactoring
 
 - [Martin Fowler @ OOP2014 "Workflows of Refactoring"](https://www.youtube.com/watch?v=vqEg37e4Mkw)
 - [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
@@ -53,10 +53,10 @@
   - Chapter 3: Bad Smells in Code
 - [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
   - [Example Code](https://github.com/sandromancuso/trip-service-kata)
-- Takes the code of the week 2 and try to do refactoring (find code smells)
+- Takes the code of the session 2 and try to do refactoring (find code smells)
 - Try the [TennisRefactoringKata](https://github.com/emilybache/Tennis-Refactoring-Kata) (find code smells)
 
-## Week 5: TDD and "Friends"
+## Session 5: TDD and "Friends"
 
 - [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
 - [Good Design is Easily-Learned](http://blog.scottbellware.com/2009/01/good-design-is-easily-learned.html)
@@ -79,7 +79,7 @@
   - With [interactions](http://osherove.com/tdd-kata-2/)
 
 
-## Week 6: Hands On Erlang
+## Session 6: Hands On Erlang
 
 *You are free to replace Erlang with whatever programming language you wants to dive in*
 
@@ -94,7 +94,7 @@
     - Follow this [video](https://vimeo.com/8206748)
   - [TennisKata](http://codingdojo.org/cgi-bin/index.pl?KataTennis)
 
-## Week 7: Deploy your application
+## Session 7: Deploy your application
 
 - Read [The Twelve-Factor App](http://12factor.net/) before you start
 - Write an `example application`
@@ -107,7 +107,7 @@
 - [Continous Delivery](http://martinfowler.com/bliki/ContinuousDelivery.html)
 - Describe your Continuous Delivery process (Can it be improved ? How ?)
 
-## Week 8: Refinements and IDD
+## Session 8: Refinements and IDD
 
 - [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
   - Patterns for Test-Driven Development
@@ -118,7 +118,7 @@
   - [Sandro Mancuso @ Jax London 2014 "Crafted Design"](https://vimeo.com/128596005)
   - [Notes about IDD](http://joebew42.github.io/notes/20150712SandroMancuso_CraftedDesign.txt)
 - [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)
-- Looking at the `example application` of the week 7:
+- Looking at the `example application` of the session 7:
   - What are your considerations ?
   - Can you apply `IDD` ? If yes propose the changes.
 - Further topics

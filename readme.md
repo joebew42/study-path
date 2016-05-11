@@ -1,3 +1,5 @@
+*This study path is released under the [**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) license*
+
 ## Getting Started
 
 - [The Pomodoro Technique](http://pomodorotechnique.com/)

@@ -78,13 +78,13 @@
 - Try the [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
   - With [interactions](http://osherove.com/tdd-kata-2/)
 
-
 ## Session 6: Hands On Erlang
 
 *You are free to replace Erlang with whatever programming language you want to dive in*
 
 - Erlang resources
   - [Programming Erlang (2nd Edition)](https://pragprog.com/book/jaerlang2/programming-erlang)
+  - [Erlang Koans](https://github.com/patrickgombert/erlang-koans)
   - Other useful resources about Erlang: [Spawned Shelter!](http://spawnedshelter.com/)
 - Try these Katas in Erlang:
   - [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
@@ -93,6 +93,7 @@
   - [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
     - Follow this [video](https://vimeo.com/8206748)
   - [TennisKata](http://codingdojo.org/cgi-bin/index.pl?KataTennis)
+  - [OpeningHoursKata](https://github.com/christian-fei/opening-hours-kata)
 
 ## Session 7: Deploy your application
 

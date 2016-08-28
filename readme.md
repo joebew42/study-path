@@ -42,7 +42,7 @@
 - Start the [GildedRoseKata](https://github.com/joebew42/GildedRose)
   - Code Coverage
   - Add the new feature
-  - No refactoring!
+  - Do not try Code Refactoring
 - [Working Effectively with Legacy Tests](http://natpryce.com/articles/000813.html)
 
 ## Session 4: Refactoring
@@ -55,7 +55,10 @@
   - Chapter 3: Bad Smells in Code
 - [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
   - [Example Code](https://github.com/sandromancuso/trip-service-kata)
-- Takes the code of the session 1 and try to do refactoring (find code smells)
+- Try the [GildedRoseKata](https://github.com/joebew42/GildedRose)
+  - Code Coverage
+  - Code Refactoring
+  - Add the new feature
 - Try the [TennisRefactoringKata](https://github.com/emilybache/Tennis-Refactoring-Kata) (find code smells)
 
 ## Session 5: TDD and "Friends"

@@ -110,7 +110,7 @@
 - Setup a CI environment (e.g. Travis)
 - Deploy your application (e.g. Heroku)
 - Test the deployed application
-- [Continous Delivery](http://martinfowler.com/bliki/ContinuousDelivery.html)
+- [Continuous Delivery](http://martinfowler.com/bliki/ContinuousDelivery.html)
 - Describe your Continuous Delivery process (Can it be improved ? How ?)
 
 ## Session 8: Refinements and IDD

@@ -120,7 +120,7 @@
 - [Domain-Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly)
   - Chapter 1: What Is Domain-Driven Design
   - Chapter 2: The Ubiquitous Language
-  - Chapter 3: Model-Drive Design
+  - Chapter 3: Model-Driven Design
   - Chapter 4: Refactoring Toward Deeper Insight
   - Chapter 5: Preserving Model Integrity
 - Watch [Eric Evans - DDD: Putting the Model to Work](https://www.infoq.com/presentations/model-to-work-evans)

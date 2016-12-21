@@ -114,13 +114,30 @@
 - [Continuous Delivery](http://martinfowler.com/bliki/ContinuousDelivery.html)
 - Describe your Continuous Delivery process (Can it be improved ? How ?)
 
-## Session 8: Further topics
+## Session 8: Domain-Driven Design
+
+- Watch [Eric Evans - Tackling Complexity in the Heart of Software](https://www.youtube.com/watch?v=dnUFEg68ESM)
+- [Domain-Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly)
+  - Chapter 1: What Is Domain-Driven Design
+  - Chapter 2: The Ubiquitous Language
+  - Chapter 3: Model-Drive Design
+  - Chapter 4: Refactoring Toward Deeper Insight
+  - Chapter 5: Preserving Model Integrity
+- Watch [Eric Evans - DDD: Putting the Model to Work](https://www.infoq.com/presentations/model-to-work-evans)
+- [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)
+- [How to write a Repository](http://philcalcado.com/2010/12/23/how_to_write_a_repository.html)
+- Watch [Eric Evans JAX 2015 Keynote: DDD and Microservices: At last, some boundaries!](https://vimeo.com/125769142)
+- Recommended readings:
+  - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+  - [Implementing Domain-Driven Design](https://www.amazon.it/dp/0321834577)
+  - [Domain-Driven Design Reference: Definitions and Pattern Summaries](https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198)
+
+## Session 9: Further topics
 
 - [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
   - Patterns for Test-Driven Development
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - Chapter 12: Emergence
-- [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)
 - Outside-in TDD [[part I](https://www.youtube.com/watch?v=XHnuMjah6ps) - [part II](https://www.youtube.com/watch?v=gs0rqDdz3ko) - [part III](https://www.youtube.com/watch?v=R9OAt9AOrzI)]
 - Interaction Driven Design:
   - [Sandro Mancuso @ Lean Agile Scotland "Crafted Design"](https://vimeo.com/107963074)

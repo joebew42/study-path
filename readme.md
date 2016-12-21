@@ -121,7 +121,7 @@
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - Chapter 12: Emergence
 - [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)
-- Outside-in TDD [[part I](https://www.youtube.com/watch?v=XHnuMjah6ps)|[part II](https://www.youtube.com/watch?v=gs0rqDdz3ko)|[part III](https://www.youtube.com/watch?v=R9OAt9AOrzI)]
+- Outside-in TDD [[part I](https://www.youtube.com/watch?v=XHnuMjah6ps) - [part II](https://www.youtube.com/watch?v=gs0rqDdz3ko) - [part III](https://www.youtube.com/watch?v=R9OAt9AOrzI)]
 - Interaction Driven Design:
   - [Sandro Mancuso @ Lean Agile Scotland "Crafted Design"](https://vimeo.com/107963074)
   - [Sandro Mancuso @ Jax London 2014 "Crafted Design"](https://vimeo.com/128596005)

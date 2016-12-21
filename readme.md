@@ -34,6 +34,7 @@
 - [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530): The Money Example
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - Chapter 9: Unit Tests
+- [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
 
 ## Session 3: Working with Legacy Code
 

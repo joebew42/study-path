@@ -126,7 +126,7 @@
   - [Sandro Mancuso @ Lean Agile Scotland "Crafted Design"](https://vimeo.com/107963074)
   - [Sandro Mancuso @ Jax London 2014 "Crafted Design"](https://vimeo.com/128596005)
   - [Notes about IDD](http://joebew42.github.io/notes/20150712SandroMancuso_CraftedDesign.txt)
-- Further topics
+- CQRS and Event Sourcing:
   - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
   - [Bryan Hunter - CQRS with Erlang](https://vimeo.com/97318824)
 - Try the [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata)

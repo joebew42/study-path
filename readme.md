@@ -114,20 +114,18 @@
 - [Continuous Delivery](http://martinfowler.com/bliki/ContinuousDelivery.html)
 - Describe your Continuous Delivery process (Can it be improved ? How ?)
 
-## Session 8: Refinements and IDD
+## Session 8: Further topics
 
 - [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
   - Patterns for Test-Driven Development
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - Chapter 12: Emergence
+- [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)
+- Outside-in TDD [[part I](https://www.youtube.com/watch?v=XHnuMjah6ps)|[part II](https://www.youtube.com/watch?v=gs0rqDdz3ko)|[part III](https://www.youtube.com/watch?v=R9OAt9AOrzI)]
 - Interaction Driven Design:
   - [Sandro Mancuso @ Lean Agile Scotland "Crafted Design"](https://vimeo.com/107963074)
   - [Sandro Mancuso @ Jax London 2014 "Crafted Design"](https://vimeo.com/128596005)
   - [Notes about IDD](http://joebew42.github.io/notes/20150712SandroMancuso_CraftedDesign.txt)
-- [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)
-- Looking at the `example application` of the session 7:
-  - What are your considerations ?
-  - Can you apply `IDD` ? If yes propose the changes.
 - Further topics
   - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
   - [Bryan Hunter - CQRS with Erlang](https://vimeo.com/97318824)

@@ -117,17 +117,17 @@
 
 ## Session 8: Domain-Driven Design
 
-- Watch [Eric Evans - Tackling Complexity in the Heart of Software](https://www.youtube.com/watch?v=dnUFEg68ESM)
+- [Eric Evans - Tackling Complexity in the Heart of Software](https://www.youtube.com/watch?v=dnUFEg68ESM)
 - [Domain-Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly)
   - Chapter 1: What Is Domain-Driven Design
   - Chapter 2: The Ubiquitous Language
   - Chapter 3: Model-Driven Design
   - Chapter 4: Refactoring Toward Deeper Insight
   - Chapter 5: Preserving Model Integrity
-- Watch [Eric Evans - DDD: Putting the Model to Work](https://www.infoq.com/presentations/model-to-work-evans)
+- [Eric Evans - DDD: Putting the Model to Work](https://www.infoq.com/presentations/model-to-work-evans)
 - [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)
 - [How to write a Repository](http://philcalcado.com/2010/12/23/how_to_write_a_repository.html)
-- Watch [Eric Evans JAX 2015 Keynote: DDD and Microservices: At last, some boundaries!](https://vimeo.com/125769142)
+- [Eric Evans JAX 2015 Keynote: DDD and Microservices: At last, some boundaries!](https://vimeo.com/125769142)
 - Recommended readings:
   - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
   - [Implementing Domain-Driven Design](https://www.amazon.it/dp/0321834577)
@@ -147,5 +147,5 @@
 - CQRS and Event Sourcing:
   - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
   - [Bryan Hunter - CQRS with Erlang](https://vimeo.com/97318824)
-- Watch [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI)
+- [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI)
 - Try the [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata)

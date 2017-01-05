@@ -28,6 +28,7 @@
   - Chapter 2: A Pragmatic Approach
   - Chapter 5: Bend or Break
   - Chapter 6: While You Are Coding
+- [The Art of Enbugging](http://www.ccs.neu.edu/research/demeter/related-work/pragmatic-programmer/jan_03_enbug.pdf): Tell, don't ask / Law of Demeter
 
 ## Session 2: Introduction to TDD
 

@@ -147,4 +147,5 @@
 - CQRS and Event Sourcing:
   - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
   - [Bryan Hunter - CQRS with Erlang](https://vimeo.com/97318824)
+- Watch [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI)
 - Try the [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata)

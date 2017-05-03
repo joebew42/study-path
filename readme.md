@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-- [The Pomodoro Technique](http://pomodorotechnique.com/)
+- [The Pomodoro Technique](http://pomodorotechnique.com/) ([paper](http://baomee.info/pdf/technique/1.pdf))
 - [Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
 - [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)
 - [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)

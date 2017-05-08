@@ -133,7 +133,35 @@
   - [Implementing Domain-Driven Design](https://www.amazon.it/dp/0321834577)
   - [Domain-Driven Design Reference: Definitions and Pattern Summaries](https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198)
 
-## Session 9: Further topics
+## Session 9: Microservice Architecture
+
+- [Microservices: A Definition of This New Architectural Term](https://martinfowler.com/articles/microservices.html)
+- [GOTO 2014 • Microservices • Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA)
+- [Principles Of Microservices by Sam Newman](https://www.youtube.com/watch?v=PFQnNFe27kU)
+- [Microservice Trade-Offs](http://martinfowler.com/articles/microservice-trade-offs.html)
+- [Microservice Architecture: Aligning Principles, Practices, and Culture](https://www.amazon.com/dp/1491956259)
+  - Chapter 1: The Microservices Way
+  - Chapter 2: The Microservices Value Proposition
+  - Chapter 3: Designing Microservice Systems
+  - Chapter 4: Establishing a Foundation
+  - Chapter 5: Service Design
+- [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358)
+  - Chapter 1: Microservices
+  - Chapter 2: The Evolutionary Architect
+  - Chapter 3: How to Model Services
+  - Chapter 4: Integration
+  - Chapter 5: Splitting the Monolith
+  - Chapter 6: Deployment
+  - Chapter 7: Testing
+  - Chapter 8: Monitoring
+  - Chapter 11: Microservices at Scale
+  - Book Reading Club: "Building Microservices" [[part I](https://www.youtube.com/watch?v=Caj-qCOniXM) - [part II](https://www.youtube.com/watch?v=zS57uYLzF1I) - [part III](https://www.youtube.com/watch?v=DAVMB_Tc00w)]
+- [Practical Considerations For Microservice Architecture](https://vimeo.com/105751281)
+- [Microservices Antipatterns](https://www.youtube.com/watch?v=I56HzTKvZKc)
+- [Seven Microservices Anti-patterns](https://www.infoq.com/articles/seven-uservices-antipatterns)
+- [Examples and other resources](https://gist.github.com/pdincau/8e6d42dfc44cf158e70293604bae0c17)
+
+## Session 10: Further topics
 
 - [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
   - Patterns for Test-Driven Development

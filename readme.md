@@ -87,7 +87,7 @@
 
 ## Session 6: Hands On Erlang
 
-*You are free to replace Erlang with whatever programming language you want to dive in*
+You are free to replace Erlang with whatever programming language you want to dive in
 
 - Erlang resources
   - [Programming Erlang (2nd Edition)](https://pragprog.com/book/jaerlang2/programming-erlang)

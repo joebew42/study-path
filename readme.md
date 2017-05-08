@@ -178,3 +178,13 @@
 - [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI)
 - Try the [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata)
 - Try the [Salary Slip Kata](https://github.com/sandromancuso/salaryslipkata)
+
+## Recommended Readings
+
+In this section I will provide a list of recommended books readings that have not been mentioned directly in this study path, but of significant importance.
+
+- [The Nature of Software Development](https://www.amazon.com/Nature-Software-Development-Simple-Valuable/dp/1941222374)
+- [The Agile Samurai: How Agile Masters Deliver Great Software](https://www.amazon.com/Agile-Samurai-Software-Pragmatic-Programmers/dp/1934356581)
+- [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
+- [Release It!: Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213)
+- [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509)

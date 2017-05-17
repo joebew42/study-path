@@ -179,6 +179,7 @@ You are free to replace Erlang with whatever programming language you want to di
 - [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI)
 - Try the [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata)
 - Try the [Salary Slip Kata](https://github.com/sandromancuso/salaryslipkata)
+- Try the [Bank Account Kata](https://github.com/sandromancuso/Bank-kata)
 
 ## Recommended Readings
 

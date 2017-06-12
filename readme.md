@@ -176,6 +176,7 @@ You are free to replace Erlang with whatever programming language you want to di
 - CQRS and Event Sourcing:
   - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
   - [Bryan Hunter - CQRS with Erlang](https://vimeo.com/97318824)
+  - [Greg Young - A Decade of DDD, CQRS, Event Sourcing](https://www.youtube.com/watch?v=LDW0QWie21s)
 - [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI)
 - Try the [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata)
 - Try the [Salary Slip Kata](https://github.com/sandromancuso/salaryslipkata)

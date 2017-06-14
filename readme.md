@@ -114,6 +114,7 @@ You are free to replace Erlang with whatever programming language you want to di
 - Deploy your application (e.g. Heroku)
 - Test the deployed application
 - [Continuous Delivery](http://martinfowler.com/bliki/ContinuousDelivery.html)
+  - [Anatomy of the Deployment Pipeline](http://www.informit.com/articles/article.aspx?p=1621865)
 - Describe your Continuous Delivery process (Can it be improved ? How ?)
 
 ## Session 8: Domain-Driven Design

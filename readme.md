@@ -41,7 +41,11 @@
 ## Session 3: Working with Legacy Code
 
 - [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
+  - Chapter 1: Changing Software
+  - Chapter 2: Working with Feedback
+  - Chapter 4: The Seam Model
   - Chapter 8: How Do I Add a Feature ?
+  - Chapter 25: Dependency-Breaking Techniques
 - Start the [GildedRoseKata](https://github.com/joebew42/GildedRose)
   - Code Coverage
   - Add the new feature

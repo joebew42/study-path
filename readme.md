@@ -31,12 +31,22 @@
   - Chapter 6: While You Are Coding
 - [The Art of Enbugging](http://www.ccs.neu.edu/research/demeter/related-work/pragmatic-programmer/jan_03_enbug.pdf): Tell, don't ask / Law of Demeter
 
-## Session 2: Introduction to TDD
+## Session 2: Test-Driven Development
 
-- [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530): The Money Example
+- [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
+  - Study the `Part I: The Money Example` and try to practically follow the same exercise with a programming language at your choice.
+- [Growing Object-Oriented Software, guided by tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
+  - Chapter 1: What is the point of Test-Driven Development?
+  - Chapter 2: Test-Driven Development with Objects
+  - Chapter 4: Kick-Starting the Test-Driven Cycle
+  - Chapter 5: Maintaining the Test-Driven Cycle
+  - Chapter 8: Building on Third-Party Code
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - Chapter 9: Unit Tests
 - [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
+- [Effective Unit Testing](https://www.amazon.com/Effective-Unit-Testing-guide-developers/dp/1935182579)
+  - Part 1: Foundations
+  - Part 2: Catalog
 
 ## Session 3: Working with Legacy Code
 

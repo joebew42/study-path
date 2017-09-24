@@ -96,6 +96,7 @@
   - Chapter 8: Building on Third-Party Code
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - Chapter 8: Boundaries
+- [The Magic Tricks of Testing by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M)
 - [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
 - Try the [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
   - With [interactions](http://osherove.com/tdd-kata-2/)

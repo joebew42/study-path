@@ -47,6 +47,10 @@
 - [Effective Unit Testing](https://www.amazon.com/Effective-Unit-Testing-guide-developers/dp/1935182579)
   - Part 1: Foundations
   - Part 2: Catalog
+- [Beck Design Rules](https://martinfowler.com/bliki/BeckDesignRules.html)
+- [Emergent Design](http://ronjeffries.com/xprog/classics/expemergentdesign/)
+- [The Four Elements of Simple Design](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design)
+- [Putting An Age-Old Battle To Rest](http://blog.thecodewhisperer.com/permalink/putting-an-age-old-battle-to-rest)
 
 ## Session 3: Working with Legacy Code
 

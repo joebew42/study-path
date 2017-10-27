@@ -41,7 +41,6 @@
   - Chapter 2: Test-Driven Development with Objects
   - Chapter 4: Kick-Starting the Test-Driven Cycle
   - Chapter 5: Maintaining the Test-Driven Cycle
-  - Chapter 8: Building on Third-Party Code
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - Chapter 9: Unit Tests
 - [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
@@ -90,6 +89,7 @@
 - [Growing Object Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/)
   - Chapter 6: Object-Oriented Style
   - Chapter 7: Achieving Object-Oriented Design
+  - Chapter 8: Building on Third-Party Code
 - [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - Chapter 8: Boundaries
 - [The Magic Tricks of Testing by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M)

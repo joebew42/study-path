@@ -138,7 +138,6 @@ You are free to replace Erlang with whatever programming language you want to di
   - Chapter 4: Refactoring Toward Deeper Insight
   - Chapter 5: Preserving Model Integrity
 - [Eric Evans - DDD: Putting the Model to Work](https://www.infoq.com/presentations/model-to-work-evans)
-- [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)
 - [How to write a Repository](http://philcalcado.com/2010/12/23/how_to_write_a_repository.html)
 - [Eric Evans JAX 2015 Keynote: DDD and Microservices: At last, some boundaries!](https://vimeo.com/125769142)
 - Recommended readings:
@@ -185,10 +184,12 @@ You are free to replace Erlang with whatever programming language you want to di
   - [Putting An Age-Old Battle To Rest](http://blog.thecodewhisperer.com/permalink/putting-an-age-old-battle-to-rest)
   - Chapter 12 of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882): Emergence
 - Outside-in TDD [[part I](https://www.youtube.com/watch?v=XHnuMjah6ps) - [part II](https://www.youtube.com/watch?v=gs0rqDdz3ko) - [part III](https://www.youtube.com/watch?v=R9OAt9AOrzI)]
-- Interaction Driven Design:
-  - [Sandro Mancuso @ Lean Agile Scotland "Crafted Design"](https://vimeo.com/107963074)
-  - [Sandro Mancuso @ Jax London 2014 "Crafted Design"](https://vimeo.com/128596005)
-  - [Notes about IDD](http://joebew42.github.io/notes/20150712SandroMancuso_CraftedDesign.txt)
+- Clean Architeture
+ - [Sandro Mancuso @ Lean Agile Scotland "Crafted Design"](https://vimeo.com/107963074)
+ - [Sandro Mancuso @ Jax London 2014 "Crafted Design"](https://vimeo.com/128596005)
+ - [Notes about "Crafted Design"](https://github.com/joebew42/joebew42.github.io/blob/master/notes/20150712SandroMancuso_CraftedDesign.txt)
+ - [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)
+ - [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 - CQRS and Event Sourcing:
   - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
   - [Bryan Hunter - CQRS with Erlang](https://vimeo.com/97318824)

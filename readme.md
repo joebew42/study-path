@@ -204,6 +204,7 @@ You are free to replace Erlang with whatever programming language you want to di
 In this section I will provide a list of recommended books readings that have not been mentioned directly in this study path, but of significant importance.
 
 - [The Nature of Software Development](https://www.amazon.com/Nature-Software-Development-Simple-Valuable/dp/1941222374)
+- [Beyond Legacy Code: Nine Practices to Extend the Life (and Value) of Your Software](https://www.amazon.com/Beyond-Legacy-Code-Practices-Software/dp/1680500791)
 - [The Agile Samurai: How Agile Masters Deliver Great Software](https://www.amazon.com/Agile-Samurai-Software-Pragmatic-Programmers/dp/1934356581)
 - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
 - [Release It!: Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213)

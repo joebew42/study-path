@@ -171,6 +171,9 @@ You are free to replace Erlang with whatever programming language you want to di
 - [Practical Considerations For Microservice Architecture](https://vimeo.com/105751281)
 - [Microservices Antipatterns](https://www.youtube.com/watch?v=I56HzTKvZKc)
 - [Seven Microservices Anti-patterns](https://www.infoq.com/articles/seven-uservices-antipatterns)
+- Handling transaction in distributed system
+  - [Using sagas to maintain data consistency in a microservice architecture](https://www.youtube.com/watch?v=YPbGW3Fnmbc)
+  - [GOTO 2015 • Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8)
 - [Examples and other resources](https://gist.github.com/pdincau/8e6d42dfc44cf158e70293604bae0c17)
 
 ## Session 10: Further topics

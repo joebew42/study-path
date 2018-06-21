@@ -47,6 +47,7 @@
 - [Effective Unit Testing](https://www.amazon.com/Effective-Unit-Testing-guide-developers/dp/1935182579)
   - Part 1: Foundations
   - Part 2: Catalog
+- [Working Effectively with Unit Tests](https://leanpub.com/wewut/read)
 
 ## Session 3: Working with Legacy Code
 

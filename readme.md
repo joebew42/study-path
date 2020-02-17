@@ -62,6 +62,9 @@
   - Do not try Code Refactoring
 - [Working Effectively with Legacy Tests](http://natpryce.com/articles/000813.html)
 - [Surviving Legacy Code with Golden Master and Sampling](https://blog.thecodewhisperer.com/permalink/surviving-legacy-code-with-golden-master-and-sampling)
+- Different approaches to tackle the Gilded Rose Kata:
+  - [All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+  - Writing test cases using Approval Tests, by Emily Bache ([Part I](https://www.youtube.com/watch?v=zyM2Ep28ED8), [Part II](https://www.youtube.com/watch?v=OJmg9aMxPDI), [Part III](https://www.youtube.com/watch?v=NADVhSjeyJA))
 
 ## Session 4: Refactoring
 

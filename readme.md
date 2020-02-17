@@ -97,22 +97,22 @@
 - Try the [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
   - With [interactions](http://osherove.com/tdd-kata-2/)
 
-## Session 6: Hands On Erlang
+## Session 6: Practice with a new Programming Language
 
-You are free to replace Erlang with whatever programming language you want to dive in
+Principles and Practices are not dependant on any particular programming language, rather they act as support or enabler to learn and get comfortable with programming languages and tools we never used before.
 
-- Erlang resources
-  - [Programming Erlang (2nd Edition)](https://pragprog.com/book/jaerlang2/programming-erlang)
-  - [Erlang Koans](https://github.com/patrickgombert/erlang-koans)
-  - Other useful resources about Erlang: [Spawned Shelter!](http://spawnedshelter.com/)
-- Try these Katas in Erlang:
-  - [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
-  - [RomanNumeralsKata](http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals)
-  - [FizzBuzzKata](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
-  - [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
-    - Follow this [video](https://vimeo.com/8206748)
-  - [TennisKata](http://codingdojo.org/cgi-bin/index.pl?KataTennis)
-  - [OpeningHoursKata](https://github.com/christian-fei/opening-hours-kata)
+Now that you have learned something about _the good principles and practices of software development_, try to grab a new programming language which you never used before and try to repeat some of the Code Katas you already have done previously:
+
+- [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
+- Repeat the Money Example of TDD by Example
+- [GildedRoseKata](https://github.com/joebew42/GildedRose)
+- [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+- [TheRomanNumeralsKata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
+- [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
+- [FizzBuzzKata](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
+- [OpeningHoursKata](https://github.com/christian-fei/opening-hours-kata)
+
+If you are looking for more Code Katas to learn and practice with your new programming language, try to give a look at [Kata-Log](https://kata-log.rocks/).
 
 ## Session 7: Deploy your application
 

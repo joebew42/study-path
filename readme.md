@@ -48,39 +48,47 @@
   - Part 1: Foundations
   - Part 2: Catalog
 
-## Session 3: Working with Legacy Code
+## Session 3: Refactoring
+
+- [Martin Fowler @ OOP2014 "Workflows of Refactoring"](https://www.youtube.com/watch?v=vqEg37e4Mkw)
+- [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+  - Chapter 1: Refactoring, a First Example
+    - Try to repeat the [example Code](https://github.com/joebew42/refactoring-day/tree/master/movie-rental/java)
+  - Chapter 2: Principles in Refactoring
+  - Chapter 3: Bad Smells in Code
+- Try to find and refactor the code smells in these Code Katas:
+  - [TennisRefactoringKata](https://github.com/emilybache/Tennis-Refactoring-Kata)
+  - [GildedRoseKata](https://github.com/joebew42/GildedRose)
+  - What Code Smelles you have found?
+    - What steps you followed to remove them?
+    - What difficulties you have faced?
+
+## Session 4: Working with Legacy Code
 
 - [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
   - Chapter 1: Changing Software
   - Chapter 2: Working with Feedback
   - Chapter 4: The Seam Model
   - Chapter 8: How Do I Add a Feature ?
+  - Chapter 13: I Need to Make Changes, but I Don't Know What Tests to Write
   - Chapter 25: Dependency-Breaking Techniques
 - [Working Effectively with Legacy Tests](http://natpryce.com/articles/000813.html)
-- Start the [GildedRoseKata](https://github.com/joebew42/GildedRose)
-  - Code Coverage
-  - Add the new feature
-  - Do not try Code Refactoring
-- [Surviving Legacy Code with Golden Master and Sampling](https://blog.thecodewhisperer.com/permalink/surviving-legacy-code-with-golden-master-and-sampling)
-- Different approaches to tackle the Gilded Rose Kata:
-  - [All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
-  - Writing test cases using Approval Tests, by Emily Bache ([Part I](https://www.youtube.com/watch?v=zyM2Ep28ED8), [Part II](https://www.youtube.com/watch?v=OJmg9aMxPDI), [Part III](https://www.youtube.com/watch?v=NADVhSjeyJA))
-
-## Session 4: Refactoring
-
-- [Martin Fowler @ OOP2014 "Workflows of Refactoring"](https://www.youtube.com/watch?v=vqEg37e4Mkw)
-- [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
-  - Chapter 1: Refactoring, a First Example
-    - [Example Code](https://github.com/joebew42/refactoring-day/tree/master/movie-rental/java)
-  - Chapter 2: Principles in Refactoring
-  - Chapter 3: Bad Smells in Code
-- [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
-  - [Example Code](https://github.com/sandromancuso/trip-service-kata)
 - Try the [GildedRoseKata](https://github.com/joebew42/GildedRose)
   - Code Coverage
-  - Code Refactoring
   - Add the new feature
-- Try the [TennisRefactoringKata](https://github.com/emilybache/Tennis-Refactoring-Kata) (find code smells)
+  - Refactor
+- Watch at these approaches to tackle the Gilded Rose Kata:
+  - [All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+  - Writing test cases using Approval Tests, by Emily Bache ([Part I](https://www.youtube.com/watch?v=zyM2Ep28ED8), [Part II](https://www.youtube.com/watch?v=OJmg9aMxPDI), [Part III](https://www.youtube.com/watch?v=NADVhSjeyJA))
+- Watch [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
+  - Try to repeat the [Code Kata](https://github.com/sandromancuso/trip-service-kata)
+- More about [Approval Testing](http://www.methodsandtools.com/archive/approvaltest.php) and some examples:
+  - [Characterization Testing](https://michaelfeathers.silvrback.com/characterization-testing)
+  - [Mutation Testing](https://www.guru99.com/mutation-testing.html)
+  - [Golden Master and Sampling](https://blog.thecodewhisperer.com/permalink/surviving-legacy-code-with-golden-master-and-sampling)
+    - [How Not To Write Golden Master Tests](https://blog.thecodewhisperer.com/permalink/how-not-to-write-golden-master-tests)
+  - Use this [code](https://github.com/jbrains/trivia) and try to test and then refactor it
+    - Which is the approach you prefer to apply? Why?
 
 ## Session 5: TDD and "Friends"
 

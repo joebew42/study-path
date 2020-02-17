@@ -56,11 +56,11 @@
   - Chapter 4: The Seam Model
   - Chapter 8: How Do I Add a Feature ?
   - Chapter 25: Dependency-Breaking Techniques
+- [Working Effectively with Legacy Tests](http://natpryce.com/articles/000813.html)
 - Start the [GildedRoseKata](https://github.com/joebew42/GildedRose)
   - Code Coverage
   - Add the new feature
   - Do not try Code Refactoring
-- [Working Effectively with Legacy Tests](http://natpryce.com/articles/000813.html)
 - [Surviving Legacy Code with Golden Master and Sampling](https://blog.thecodewhisperer.com/permalink/surviving-legacy-code-with-golden-master-and-sampling)
 - Different approaches to tackle the Gilded Rose Kata:
   - [All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)

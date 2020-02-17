@@ -61,6 +61,7 @@
   - Add the new feature
   - Do not try Code Refactoring
 - [Working Effectively with Legacy Tests](http://natpryce.com/articles/000813.html)
+- [Surviving Legacy Code with Golden Master and Sampling](https://blog.thecodewhisperer.com/permalink/surviving-legacy-code-with-golden-master-and-sampling)
 
 ## Session 4: Refactoring
 

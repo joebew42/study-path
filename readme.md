@@ -11,7 +11,7 @@
 
 - [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
 - [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
-  - [SRP: Single Responsability Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
+  - [SRP: Single Responsibility Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
   - [OCP: Open-Closed Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en)
   - [LSP: Liskov Substitution Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh&hl=en)
   - [ISP: Interface Segregation Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi&hl=en)
@@ -59,7 +59,7 @@
 - Try to find and refactor the code smells in these Code Katas:
   - [TennisRefactoringKata](https://github.com/emilybache/Tennis-Refactoring-Kata)
   - [GildedRoseKata](https://github.com/joebew42/GildedRose)
-  - What Code Smelles you have found?
+  - What Code Smells you have found?
     - What steps you followed to remove them?
     - What difficulties you have faced?
 
@@ -114,7 +114,7 @@
 
 ## Session 6: Practice with a new Programming Language
 
-Principles and Practices are not dependant on any particular programming language, rather they act as support or enabler to learn and get comfortable with programming languages and tools we never used before.
+Principles and Practices are not dependent on any particular programming language, rather they act as support or enabler to learn and get comfortable with programming languages and tools we never used before.
 
 Now that you have learned something about _the good principles and practices of software development_, try to grab a new programming language which you never used before and try to repeat some of the Code Katas you already have done previously:
 
@@ -202,7 +202,7 @@ If you are looking for more Code Katas to learn and practice with your new progr
   - [Putting An Age-Old Battle To Rest](http://blog.thecodewhisperer.com/permalink/putting-an-age-old-battle-to-rest)
   - Chapter 12 of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882): Emergence
 - Outside-in TDD [[part I](https://www.youtube.com/watch?v=XHnuMjah6ps) - [part II](https://www.youtube.com/watch?v=gs0rqDdz3ko) - [part III](https://www.youtube.com/watch?v=R9OAt9AOrzI)]
-- Clean Architeture
+- Clean Architecture
   - [Sandro Mancuso @ Lean Agile Scotland "Crafted Design"](https://vimeo.com/107963074)
   - [Sandro Mancuso @ Jax London 2014 "Crafted Design"](https://vimeo.com/128596005)
   - [Notes about "Crafted Design"](https://github.com/joebew42/joebew42.github.io/blob/master/notes/20150712SandroMancuso_CraftedDesign.txt)

@@ -89,6 +89,9 @@
     - [How Not To Write Golden Master Tests](https://blog.thecodewhisperer.com/permalink/how-not-to-write-golden-master-tests)
   - Use this [code](https://github.com/jbrains/trivia) and try to test and then refactor it
     - Which is the approach you prefer to apply? Why?
+- Watch [Surviving a legacy codebase: tactics and tools, by Paolo D'Incau and Pietro Di Bello](https://www.youtube.com/watch?v=NGfvguzMjqw)
+  - [Slides of the talk](https://www.slideshare.net/pierodibello/surviving-to-a-legacy-codebase-codemotion-berlin-2018-edition)
+  - [Example code](https://github.com/xpepper/fifty-shades-of-legacy-goose-game) to practice
 
 ## Session 5: TDD and "Friends"
 

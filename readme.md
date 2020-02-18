@@ -115,14 +115,14 @@ Principles and Practices are not dependant on any particular programming languag
 
 Now that you have learned something about _the good principles and practices of software development_, try to grab a new programming language which you never used before and try to repeat some of the Code Katas you already have done previously:
 
+- [FizzBuzzKata](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
+- [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+- [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
+- [TheRomanNumeralsKata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
+- [OpeningHoursKata](https://github.com/christian-fei/opening-hours-kata)
 - [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
 - Repeat the Money Example of TDD by Example
 - [GildedRoseKata](https://github.com/joebew42/GildedRose)
-- [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
-- [TheRomanNumeralsKata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
-- [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
-- [FizzBuzzKata](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
-- [OpeningHoursKata](https://github.com/christian-fei/opening-hours-kata)
 
 If you are looking for more Code Katas to learn and practice with your new programming language, try to give a look at [Kata-Log](https://kata-log.rocks/).
 

@@ -57,8 +57,8 @@
   - Chapter 2: Principles in Refactoring
   - Chapter 3: Bad Smells in Code
 - Try to find and refactor the code smells in these Code Katas:
-  - [TennisRefactoringKata](https://github.com/emilybache/Tennis-Refactoring-Kata)
-  - [GildedRoseKata](https://github.com/joebew42/GildedRose)
+  - [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata)
+  - [Gilded Rose Kata](https://github.com/joebew42/GildedRose)
   - What Code Smells you have found?
     - What steps you followed to remove them?
     - What difficulties you have faced?
@@ -73,7 +73,7 @@
   - Chapter 13: I Need to Make Changes, but I Don't Know What Tests to Write
   - Chapter 25: Dependency-Breaking Techniques
 - [Working Effectively with Legacy Tests](http://natpryce.com/articles/000813.html)
-- Try the [GildedRoseKata](https://github.com/joebew42/GildedRose)
+- Try the [Gilded Rose Kata](https://github.com/joebew42/GildedRose)
   - Code Coverage
   - Add the new feature
   - Refactor
@@ -98,8 +98,8 @@
 - [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
 - [Good Design is Easily-Learned](http://blog.scottbellware.com/2009/01/good-design-is-easily-learned.html)
 - Try to learn and repeat these Katas autonomously
-  - [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
-  - [TheRomanNumeralsKata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
+  - [The Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+  - [The Roman Numerals Kata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
 - [Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
 - [Growing Object Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/)
   - Chapter 6: Object-Oriented Style
@@ -109,10 +109,10 @@
   - Chapter 8: Boundaries
 - [The Magic Tricks of Testing by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M)
 - [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
-- Try the [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
+- Try the [String Calculator Kata](http://osherove.com/tdd-kata-1/)
   - With [interactions](http://osherove.com/tdd-kata-2/)
-- Try the [GameOfLifeKata](https://kata-log.rocks/game-of-life-kata)
-- Try the [TicTacToeKata](https://kata-log.rocks/tic-tac-toe-kata)
+- Try the [Game Of Life Kata](https://kata-log.rocks/game-of-life-kata)
+- Try the [Tic Tac Toe Kata](https://kata-log.rocks/tic-tac-toe-kata)
 
 ## Session 6: Practice with a new Programming Language
 
@@ -120,16 +120,16 @@ Principles and Practices are not dependent on any particular programming languag
 
 Now that you have learned something about _the good principles and practices of software development_, try to grab a new programming language which you never used before and try to repeat some of the Code Katas you already have done previously:
 
-- [FizzBuzzKata](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
-- [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
-- [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
-- [TheRomanNumeralsKata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
-- [GameOfLifeKata](https://kata-log.rocks/game-of-life-kata)
-- [TicTacToeKata](https://kata-log.rocks/tic-tac-toe-kata)
-- [OpeningHoursKata](https://github.com/christian-fei/opening-hours-kata)
+- [Fizz Buzz Kata](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz)
+- [The Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+- [String Calculator Kata](http://osherove.com/tdd-kata-1/)
+- [The Roman Numerals Kata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
+- [Game Of Life Kata](https://kata-log.rocks/game-of-life-kata)
+- [Tic Tac Toe Kata](https://kata-log.rocks/tic-tac-toe-kata)
+- [Opening Hours Kata](https://github.com/christian-fei/opening-hours-kata)
 - [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
 - Repeat the Money Example of TDD by Example
-- [GildedRoseKata](https://github.com/joebew42/GildedRose)
+- [Gilded Rose Kata](https://github.com/joebew42/GildedRose)
 
 If you are looking for more Code Katas to learn and practice with your new programming language, try to give a look at [Kata-Log](https://kata-log.rocks/).
 

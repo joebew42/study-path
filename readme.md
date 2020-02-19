@@ -87,7 +87,7 @@
   - [Mutation Testing](https://www.guru99.com/mutation-testing.html)
   - [Golden Master and Sampling](https://blog.thecodewhisperer.com/permalink/surviving-legacy-code-with-golden-master-and-sampling)
     - [How Not To Write Golden Master Tests](https://blog.thecodewhisperer.com/permalink/how-not-to-write-golden-master-tests)
-  - Use this [code](https://github.com/jbrains/trivia) and try to test and then refactor it
+  - Try to test and refactor the [Ugly trivia game](https://github.com/jbrains/trivia)
     - Which is the approach you prefer to apply? Why?
 - Watch [Surviving a legacy codebase: tactics and tools, by Paolo D'Incau and Pietro Di Bello](https://www.youtube.com/watch?v=NGfvguzMjqw)
   - [Slides of the talk](https://www.slideshare.net/pierodibello/surviving-to-a-legacy-codebase-codemotion-berlin-2018-edition)

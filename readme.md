@@ -221,6 +221,7 @@ If you are looking for more Code Katas to learn and practice with your new progr
 - Try the [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata)
 - Try the [Salary Slip Kata](https://github.com/sandromancuso/salaryslipkata)
 - Try the [Bank Account Kata](https://github.com/sandromancuso/Bank-kata)
+- Try the [Greeting Service Kata](https://github.com/joebew42/greeting-service-kata)
 
 ## Recommended Readings
 

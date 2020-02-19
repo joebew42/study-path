@@ -111,6 +111,8 @@
 - [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
 - Try the [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
   - With [interactions](http://osherove.com/tdd-kata-2/)
+- Try the [GameOfLifeKata](https://kata-log.rocks/game-of-life-kata)
+- Try the [TicTacToeKata](https://kata-log.rocks/tic-tac-toe-kata)
 
 ## Session 6: Practice with a new Programming Language
 
@@ -122,6 +124,8 @@ Now that you have learned something about _the good principles and practices of 
 - [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
 - [StringCalculatorKata](http://osherove.com/tdd-kata-1/)
 - [TheRomanNumeralsKata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
+- [GameOfLifeKata](https://kata-log.rocks/game-of-life-kata)
+- [TicTacToeKata](https://kata-log.rocks/tic-tac-toe-kata)
 - [OpeningHoursKata](https://github.com/christian-fei/opening-hours-kata)
 - [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
 - Repeat the Money Example of TDD by Example

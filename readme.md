@@ -47,6 +47,7 @@
 - [Effective Unit Testing](https://www.amazon.com/Effective-Unit-Testing-guide-developers/dp/1935182579)
   - Part 1: Foundations
   - Part 2: Catalog
+- [Working Effectively with Unit Tests](https://leanpub.com/wewut/read)
 
 ## Session 3: Refactoring
 
@@ -203,6 +204,7 @@ If you are looking for more Code Katas to learn and practice with your new progr
   - [Beck Design Rules](https://martinfowler.com/bliki/BeckDesignRules.html)
   - [Emergent Design](http://ronjeffries.com/xprog/classics/expemergentdesign/)
   - [The Four Elements of Simple Design](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design)
+  - [Understanding the Four Rules of Simple Design](https://leanpub.com/4rulesofsimpledesign)
   - [Putting An Age-Old Battle To Rest](http://blog.thecodewhisperer.com/permalink/putting-an-age-old-battle-to-rest)
   - Chapter 12 of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882): Emergence
 - Outside-in TDD [[part I](https://www.youtube.com/watch?v=XHnuMjah6ps) - [part II](https://www.youtube.com/watch?v=gs0rqDdz3ko) - [part III](https://www.youtube.com/watch?v=R9OAt9AOrzI)]

@@ -1,5 +1,17 @@
 *This study path is released under the [**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) license*
 
+## Introduction
+
+First of all, I would like to welcome you to this study path, or if you like, the learning path. Is a path about **software development practices and design principles**. It's open and freely accessible to everyone who wants to dig into topics like _Clean Code_, _Test-Driven Development_, _Refactoring_, _Clean Architecture_, _Legacy Code_, _Domain-Driven Design_, _Microservices_, and much more.
+
+The materials are all organized in sections based on specific topics. There is no order to follow. You can skim through all the sections, look for anything specific, follow only a few sections, or just start reading from the very beginning to the end. It's your choice!
+
+I am willing to keep this study path always updated, and I would invite you to contribute to this project by submitting any material you believe will improve it.
+
+**Why this study path?** Few years ago I worked as a mentor for an intern in Agile Software Development, and I wanted to provide a clear path to follow. At that time, the study was covering Clean Code, Test-Driven Development, and other few topics. By the time, with the support of other people, we enhanced the study path with more and more content!
+
+Enjoy!
+
 ## Getting Started
 
 - [The Pomodoro Technique](http://pomodorotechnique.com/) ([paper](http://baomee.info/pdf/technique/1.pdf))

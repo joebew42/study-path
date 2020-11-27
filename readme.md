@@ -151,19 +151,24 @@ Now that you have learned something about _the good principles and practices of 
 
 If you are looking for more Code Katas to learn and practice with your new programming language, try to give a look at [Kata-Log](https://kata-log.rocks/).
 
-## Session 7: Build and deploy your application
+## Session 7: The Clean Architecture
 
-- Read [The Twelve-Factor App](http://12factor.net/) before you start
-- Write a simple application
-- Publish the code on a `GitHub` repository
-- Split up your work in [User Stories](http://www.agilemodeling.com/artifacts/userStory.htm) (e.g. Trello)
-- Setup a development environment (e.g. Vagrant/Ansible/Docker)
-- Setup a CI environment (e.g. Travis/CircleCI/CodeShip)
-- Deploy your application (e.g. Heroku)
-- Test the deployed application
-- Read [Continuous Delivery](http://martinfowler.com/bliki/ContinuousDelivery.html)
-  - Read [Anatomy of the Deployment Pipeline](http://www.informit.com/articles/article.aspx?p=1621865)
-- Describe your Continuous Delivery process (Can it be improved ? How ?)
+- Read [Hexagonal Architecture](https://web.archive.org/web/20090122225311/http://alistair.cockburn.us/Hexagonal+architecture)
+- Read [The Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
+- Read [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- Watch [Lean Agile Scotland "Crafted Design"](https://vimeo.com/107963074)
+- Watch [Jax London 2014 "Crafted Design"](https://vimeo.com/128596005)
+- Watch [Spring I/O 2019 Clean Architecture](https://www.youtube.com/watch?v=cPH5AiqLQTo)
+- Exercises:
+  - Try the [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata)
+  - Try the [Greeting Service Kata](https://github.com/joebew42/greeting-service-kata)
+- Once you have done one of the previous Code Kata, try to build and deploy your application
+  - Read [The Twelve-Factor App](http://12factor.net/)
+  - Publish the code on a `GitHub` repository
+  - Setup a CI environment (e.g. Travis/CircleCI/CodeShip)
+  - Deploy your application automatically (e.g. Heroku)
+  - Write a suite of tests to check the deployed application is working as expected
+- Take a look at this [reference implementation on Clean Architecture](https://github.com/ivanpaulovich/clean-architecture-manga)
 
 ## Session 8: Domain-Driven Design
 
@@ -215,8 +220,6 @@ If you are looking for more Code Katas to learn and practice with your new progr
 
 ## Session 10: Further topics
 
-- Read [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
-  - Patterns for Test-Driven Development
 - Simple Design
   - Read [Beck Design Rules](https://martinfowler.com/bliki/BeckDesignRules.html)
   - Read [Emergent Design](http://ronjeffries.com/xprog/classics/expemergentdesign/)
@@ -224,21 +227,17 @@ If you are looking for more Code Katas to learn and practice with your new progr
   - Read [Putting An Age-Old Battle To Rest](http://blog.thecodewhisperer.com/permalink/putting-an-age-old-battle-to-rest)
   - Read Chapter 12 of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882): Emergence
 - Watch Outside-in TDD ([part I](https://www.youtube.com/watch?v=XHnuMjah6ps) - [part II](https://www.youtube.com/watch?v=gs0rqDdz3ko) - [part III](https://www.youtube.com/watch?v=R9OAt9AOrzI))
-- Clean Architecture
-  - Read [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
-  - Watch [Lean Agile Scotland "Crafted Design"](https://vimeo.com/107963074)
-  - Watch [Jax London 2014 "Crafted Design"](https://vimeo.com/128596005)
-  - Read [Hexagonal architecture](https://web.archive.org/web/20090122225311/http://alistair.cockburn.us/Hexagonal+architecture)
+- Read [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
+  - Patterns for Test-Driven Development
 - CQRS and Event Sourcing:
   - Watch [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
   - Watch [CQRS with Erlang](https://vimeo.com/97318824)
   - Watch [A Decade of DDD, CQRS, Event Sourcing](https://www.youtube.com/watch?v=LDW0QWie21s)
   - Read [CQRS Journey](http://cqrsjourney.github.io/)
 - Exercises:
-  - Try the [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata)
   - Try the [Salary Slip Kata](https://github.com/sandromancuso/salaryslipkata)
   - Try the [Bank Account Kata](https://github.com/sandromancuso/Bank-kata)
-  - Try the [Greeting Service Kata](https://github.com/joebew42/greeting-service-kata)
+    - Try to implement a variant using a CQRS/ES approach
 
 ## Recommended Readings
 

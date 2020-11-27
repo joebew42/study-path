@@ -221,10 +221,10 @@ If you are looking for more Code Katas to learn and practice with your new progr
   - Read Chapter 12 of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882): Emergence
 - Watch Outside-in TDD ([part I](https://www.youtube.com/watch?v=XHnuMjah6ps) - [part II](https://www.youtube.com/watch?v=gs0rqDdz3ko) - [part III](https://www.youtube.com/watch?v=R9OAt9AOrzI))
 - Clean Architecture
+  - Read [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
   - Watch [Lean Agile Scotland "Crafted Design"](https://vimeo.com/107963074)
   - Watch [Jax London 2014 "Crafted Design"](https://vimeo.com/128596005)
-  - Read [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)
-  - Read [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+  - Read [Hexagonal architecture](https://web.archive.org/web/20090122225311/http://alistair.cockburn.us/Hexagonal+architecture)
 - CQRS and Event Sourcing:
   - Watch [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
   - Watch [CQRS with Erlang](https://vimeo.com/97318824)

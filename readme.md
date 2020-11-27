@@ -108,11 +108,13 @@ Enjoy!
   - Read the [Slides of the talk](https://www.slideshare.net/pierodibello/surviving-to-a-legacy-codebase-codemotion-berlin-2018-edition)
   - Have access to the [example code](https://github.com/xpepper/fifty-shades-of-legacy-goose-game) for further practice
 
-## Session 5: More about Test-Driven Development
+## Session 5: Testing, Design and Test-Driven Development
 
+- Watch [The deep synergy between testability and good design](https://www.youtube.com/watch?v=4cVZvoFGJTU)
 - Watch [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
+- Watch [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI)
 - Read [Good Design is Easily-Learned](http://blog.scottbellware.com/2009/01/good-design-is-easily-learned.html)
-- Exercise: Try to learn and repeat these Katas autonomously
+- Exercise: Try to learn and repeat these Code Kata autonomously
   - [The Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
   - [The Roman Numerals Kata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
 - Watch [Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
@@ -232,7 +234,6 @@ If you are looking for more Code Katas to learn and practice with your new progr
   - Watch [CQRS with Erlang](https://vimeo.com/97318824)
   - Watch [A Decade of DDD, CQRS, Event Sourcing](https://www.youtube.com/watch?v=LDW0QWie21s)
   - Read [CQRS Journey](http://cqrsjourney.github.io/)
-- Watch [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI)
 - Exercises:
   - Try the [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata)
   - Try the [Salary Slip Kata](https://github.com/sandromancuso/salaryslipkata)

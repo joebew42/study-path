@@ -54,12 +54,14 @@ Enjoy!
   - Chapter 2: Test-Driven Development with Objects
   - Chapter 4: Kick-Starting the Test-Driven Cycle
   - Chapter 5: Maintaining the Test-Driven Cycle
-- Read [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-  - Chapter 9: Unit Tests
-- Watch [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
-- Read [Effective Unit Testing](https://www.amazon.com/Effective-Unit-Testing-guide-developers/dp/1935182579)
-  - Part 1: Foundations
-  - Part 2: Catalog
+- Unit Tests
+  - Read Chapter 9: Unit Tests of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+  - Watch [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
+  - Read [Effective Unit Testing](https://www.amazon.com/Effective-Unit-Testing-guide-developers/dp/1935182579)
+    - Part 1: Foundations
+    - Part 2: Catalog
+- Read [desirable properties of tests](https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3)
+  - Watch [the video playlist](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl)
 
 ## Session 3: Refactoring
 

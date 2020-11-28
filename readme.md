@@ -2,7 +2,7 @@
 
 ## Introduction
 
-First of all, I would like to welcome you to this study path, or if you like, the learning path. Is a path about **software development practices and design principles**. It's open and freely accessible to everyone who wants to dig into topics like _Clean Code_, _Test-Driven Development_, _Refactoring_, _Clean Architecture_, _Legacy Code_, _Domain-Driven Design_, _Microservices_, and much more.
+Welcome to this study path, or if you like, the learning path. Is a path about **software development practices and design principles**. It's open and freely accessible to everyone who wants to dig into topics like _Clean Code_, _Test-Driven Development_, _Refactoring_, _Clean Architecture_, _Legacy Code_, _Domain-Driven Design_, _Microservices_, and much more.
 
 The materials are all organized in sections based on specific topics. There is no order to follow. You can skim through all the sections, look for anything specific, follow only a few sections, or just start reading from the very beginning to the end. It's your choice!
 

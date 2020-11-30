@@ -156,6 +156,7 @@ If you are looking for more Code Katas to learn and practice with your new progr
 - Read [Hexagonal Architecture](https://web.archive.org/web/20090122225311/http://alistair.cockburn.us/Hexagonal+architecture)
 - Read [The Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
 - Read [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- Watch [Clean Architecture and Design](https://www.youtube.com/watch?v=2dKZ-dWaCiU)
 - Watch [Lean Agile Scotland "Crafted Design"](https://vimeo.com/107963074)
 - Watch [Jax London 2014 "Crafted Design"](https://vimeo.com/128596005)
 - Watch [Spring I/O 2019 Clean Architecture](https://www.youtube.com/watch?v=cPH5AiqLQTo)

@@ -115,7 +115,7 @@ Enjoy!
 - Watch [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI)
 - Read [Good Design is Easily-Learned](http://blog.scottbellware.com/2009/01/good-design-is-easily-learned.html)
 - Exercise: Try to learn and repeat these Code Kata autonomously
-  - [The Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+  - [The Bowling Game Kata](http://www.butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
   - [The Roman Numerals Kata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
 - Watch [Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
 - Read [Growing Object Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/)

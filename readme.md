@@ -16,7 +16,7 @@ Enjoy!
 
 - Get familiar with [the Pomodoro Technique](http://pomodorotechnique.com/) (read the [paper](http://baomee.info/pdf/technique/1.pdf))
 - Read the [Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
-- Read the [Principles behind the Agile Manifesto](http://www.agilemanifesto.org/principles.html)
+- Read the [Principles behind the Agile Manifesto](http://agilemanifesto.org/)
 - Read the [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 
 ## Session 1: SOLID and Clean Code

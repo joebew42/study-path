@@ -14,7 +14,7 @@ Enjoy!
 
 ## Getting Started
 
-- Get familiar with [the Pomodoro Technique](http://pomodorotechnique.com/) (read the [paper](assets/Cirillo -- Pomodoro Technique.pdf)) 
+- Get familiar with [the Pomodoro Technique](http://pomodorotechnique.com/) (read the [paper](assets/Cirillo%20--%20Pomodoro%20Technique.pdf)) 
 - Read the [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 - Read the [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
 - Read the [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)

@@ -12,9 +12,8 @@ I am willing to keep this study path always updated, and I would invite you to c
 
 Enjoy!
 
-## Getting Started
 
-- Get familiar with [the Pomodoro Technique](http://pomodorotechnique.com/) (read the [paper](assets/cirillo-pomodoro-technique.pdf)) 
+- Read [TODO List: One thing at a time!](https://joebew42.github.io/2020/07/08/todo/)
 - Read the [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 - Read the [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
 - Read the [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)

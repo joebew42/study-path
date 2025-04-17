@@ -43,14 +43,14 @@ I am committed keeping this path up to date and valuable. If you have suggestion
   - [DIP: Dependency Inversion Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=en)
 - Exercise: Look at the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
   - Try to find where the SOLID principles are violated
-- Read the [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- Read the [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
   - Chapter 1: Clean Code
   - Chapter 2: Meaningful Names
   - Chapter 3: Functions
   - Chapter 6: Objects and Data Structures
   - Chapter 7: Error Handling
   - Chapter 10: Classes
-- Read [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+- Read [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
   - Chapter 2: A Pragmatic Approach
   - Chapter 5: Bend or Break
   - Chapter 6: While You Are Coding
@@ -62,18 +62,18 @@ I am committed keeping this path up to date and valuable. If you have suggestion
 
 > _Learn how tests can help to drive the design of your code, how tests can lead to a better feedback loop, and less code! A key skill in modern development workflows._
 
-- Read [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
+- Read [Test-Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
   - Study the `Part I: The Money Example`
   - Exercise: Try to repeat it with a programming language at your choice.
-- Read [Growing Object-Oriented Software, guided by tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
+- Read [Growing Object-Oriented Software, Guided by Tests](https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests)
   - Chapter 1: What is the point of Test-Driven Development?
   - Chapter 2: Test-Driven Development with Objects
   - Chapter 4: Kick-Starting the Test-Driven Cycle
   - Chapter 5: Maintaining the Test-Driven Cycle
 - Unit Tests
-  - Read Chapter 9: Unit Tests of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+  - Read Chapter 9: Unit Tests of [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code)
   - Watch [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
-  - Read [Effective Unit Testing](https://www.amazon.com/Effective-Unit-Testing-guide-developers/dp/1935182579)
+  - Read [Effective Unit Testing](https://www.goodreads.com/book/show/17282399-effective-unit-testing)
     - Part 1: Foundations
     - Part 2: Catalog
 - Read [desirable properties of tests](https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3)
@@ -84,7 +84,7 @@ I am committed keeping this path up to date and valuable. If you have suggestion
 > _Sharpen your ability to improve the design of your code without changing its behavior. Recognize code smells, apply refactoring techniques, and keep your systems clean over time._
 
 - Watch [Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw)
-- Read [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+- Read [Refactoring: Improving the design of existing code](https://www.goodreads.com/book/show/44936.Refactoring)
   - Chapter 1: Refactoring, a First Example
     - Try to repeat the [example code](https://github.com/joebew42/refactoring-day/tree/master/movie-rental/java)
   - Chapter 2: Principles in Refactoring
@@ -100,7 +100,7 @@ I am committed keeping this path up to date and valuable. If you have suggestion
 
 > _Master strategies and techniques to safely work in large, untested, or unfamiliar codebases. One of the most valuable real-world development skills for people who are dealing with legacy code at daily basis._
 
-- Read [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
+- Read [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
   - Chapter 1: Changing Software
   - Chapter 2: Working with Feedback
   - Chapter 4: The Seam Model
@@ -140,11 +140,11 @@ I am committed keeping this path up to date and valuable. If you have suggestion
   - [The Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
   - [The Roman Numerals Kata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
 - Watch [Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
-- Read [Growing Object Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/)
+- Read [Growing Object-Oriented Software, Guided by Tests](https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests)
   - Chapter 6: Object-Oriented Style
   - Chapter 7: Achieving Object-Oriented Design
   - Chapter 8: Building on Third-Party Code
-- Read [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- Read the [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
   - Chapter 8: Boundaries
 - Watch [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M)
 - Read [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
@@ -212,9 +212,9 @@ If you are looking for more Code Katas to learn and practice with your new progr
 - Read [How to write a Repository](http://philcalcado.com/2010/12/23/how_to_write_a_repository.html)
 - Watch [DDD and Microservices: At last, some boundaries!](https://vimeo.com/125769142)
 - Recommended readings:
-  - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
-  - [Implementing Domain-Driven Design](https://www.amazon.com/dp/0321834577)
-  - [Domain-Driven Design Reference: Definitions and Pattern Summaries](https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198)
+  - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design)
+  - [Implementing Domain-Driven Design](https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design)
+  - [Domain-Driven Design Reference: Definitions and Pattern Summaries](https://www.goodreads.com/book/show/23322716-domain-driven-design-reference)
   - [Domain Modeling Made Functional](https://www.goodreads.com/book/show/34921689-domain-modeling-made-functional)
 
 ## 🔌 Session 9: Microservices
@@ -225,13 +225,13 @@ If you are looking for more Code Katas to learn and practice with your new progr
 - Watch [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA)
 - Watch [Principles Of Microservices](https://www.youtube.com/watch?v=PFQnNFe27kU)
 - Read [Microservice Trade-Offs](http://martinfowler.com/articles/microservice-trade-offs.html)
-- Read [Microservice Architecture: Aligning Principles, Practices, and Culture](https://www.amazon.com/dp/1491956259)
+- Read [Microservice Architecture: Aligning Principles, Practices, and Culture](https://www.goodreads.com/book/show/30827276-microservice-architecture-aligning-principles-practices-and-culture)
   - Chapter 1: The Microservices Way
   - Chapter 2: The Microservices Value Proposition
   - Chapter 3: Designing Microservice Systems
   - Chapter 4: Establishing a Foundation
   - Chapter 5: Service Design
-- Read [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358)
+- Read [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/22512931-building-microservices?)
   - Chapter 1: Microservices
   - Chapter 2: The Evolutionary Architect
   - Chapter 3: How to Model Services
@@ -259,9 +259,9 @@ If you are looking for more Code Katas to learn and practice with your new progr
   - Read [Emergent Design](http://ronjeffries.com/xprog/classics/expemergentdesign/)
   - Read [The Four Elements of Simple Design](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design)
   - Read [Putting An Age-Old Battle To Rest](http://blog.thecodewhisperer.com/permalink/putting-an-age-old-battle-to-rest)
-  - Read Chapter 12 of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882): Emergence
+  - Read Chapter 12 of [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code): Emergence
 - Watch Outside-in TDD ([part I](https://www.youtube.com/watch?v=XHnuMjah6ps) - [part II](https://www.youtube.com/watch?v=gs0rqDdz3ko) - [part III](https://www.youtube.com/watch?v=R9OAt9AOrzI))
-- Read [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
+- Read [Test-Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
   - Patterns for Test-Driven Development
 - CQRS and Event Sourcing:
   - Watch [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
@@ -278,10 +278,10 @@ If you are looking for more Code Katas to learn and practice with your new progr
 
 > This section provides a list of recommended books readings that have not been mentioned directly in this study path, but of significant importance.
 
-- [The Nature of Software Development](https://www.amazon.com/Nature-Software-Development-Simple-Valuable/dp/1941222374)
-- [Extreme Programming Explained: Embrace Change (2nd Edition)](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B000OZ0N5S)
-- [The Agile Samurai: How Agile Masters Deliver Great Software](https://www.amazon.com/Agile-Samurai-Software-Pragmatic-Programmers/dp/1934356581)
-- [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
-- [Release It!: Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213)
-- [Beyond Legacy Code: Nine Practices to Extend the Life (and Value) of Your Software](https://www.amazon.com/Beyond-Legacy-Code-Practices-Software/dp/1680500791)
-- [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509)
+- [The Nature of Software Development](https://www.goodreads.com/book/show/23016056-the-nature-of-software-development)
+- [Extreme Programming Explained: Embrace Change (2nd Edition)](https://www.goodreads.com/book/show/58699420-extreme-programming-explained)
+- [The Agile Samurai: How Agile Masters Deliver Great Software](https://www.goodreads.com/book/show/8248700-the-agile-samurai)
+- [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.goodreads.com/book/show/8686650-continuous-delivery)
+- [Release It!: Design and Deploy Production-Ready Software](https://www.goodreads.com/book/show/1069827.Release_It_)
+- [Beyond Legacy Code: Nine Practices to Extend the Life (and Value) of Your Software](https://www.goodreads.com/book/show/26088456-beyond-legacy-code)
+- [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project)

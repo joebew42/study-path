@@ -279,6 +279,7 @@ If you are looking for more Code Katas to learn and practice with your new progr
   - Try the [Salary Slip Kata](https://github.com/sandromancuso/salaryslipkata)
   - Try the [Bank Account Kata](https://github.com/sandromancuso/Bank-kata)
     - Try to implement a variant using a CQRS/ES approach
+- Watch [The Many Meanings of Event-Driven Architecture • Martin Fowler • GOTO 2017](https://www.youtube.com/watch?v=STKCRSUsyP0)
 - Read [Growing systems towards DDD, Event-Sourcing and Event-Driven architecture](https://joebew42.github.io/2025/04/06/growing-systems-towards-ddd-event-sourcing-and-event-driven-architecture/)
 
 ## 📚 Recommended Readings

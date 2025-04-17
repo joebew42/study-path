@@ -2,15 +2,23 @@
 
 ## Introduction
 
-Welcome to this study path, or if you like, the learning path. Is a path about **software development practices and design principles**. It's open and freely accessible to everyone who wants to dig into topics like _Clean Code_, _Test-Driven Development_, _Refactoring_, _Clean Architecture_, _Legacy Code_, _Domain-Driven Design_, _Microservices_, and much more.
+Welcome to a **Study Path on Software Development**: a curated, open, and ever-evolving learning journey focused on practices of software development, software design principles, and software architecture.
 
-The materials are all organized in sections based on specific topics. There is no order to follow. You can skim through all the sections, look for anything specific, follow only a few sections, or just start reading from the very beginning to the end. It's your choice!
+Whether you are interested in **Clean Code**, **Test-Driven Development**, **Refactoring**, **Clean Architecture**, **Legacy Code**, **Domain-Driven Design**, **Microservices**, or other essential topics, I hope you will find structured, high-quality resources here to guide with your growth.
 
-I am willing to keep this study path always updated, and I would invite you to contribute to this project by submitting any material you believe will improve it.
+The study path is organized into themed sections. There is no strict order to follow, you are free to:
 
-**Why this study path?** Few years ago I worked as a mentor for an intern in Agile Software Development, and I wanted to provide a clear path to follow. At that time, the study was covering Clean Code, Test-Driven Development, and other few topics. By the time, with the support of other people, we enhanced the study path with more and more content!
+- Browse through all the sessions
+- Dive into topics that interest you most
+- Follow the entire path from start to finish
 
-Enjoy!
+**How you use it is entirely up to you.**
+
+This project started years ago when I mentored an intern in Agile Software Development. At that time I wanted to offer a clear, practical roadmap for learning foundational concepts, like clean code and TDD. Over time, with the support of other people, this study path has grown - and continues to grow - into a broader resource for developers at all levels.
+
+I am committed keeping this path up to date and valuable. If you have suggestions or resources to contribute, your input is more than welcome!
+
+**Enjoy the journey, and happy learning!**
 
 ## 🧭 Getting Started
 

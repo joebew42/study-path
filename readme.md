@@ -14,7 +14,7 @@ Enjoy!
 
 ## 🧭 Getting Started
 
-_Kick off your journey by learning how to stay focused, work iteratively, and embrace the mindset of continuous improvement through Agile values and time management techniques._
+> _Kick off your journey by learning how to stay focused, work iteratively, and embrace the mindset of continuous improvement through Agile values and time management techniques._
 
 - Get familiar with [the Pomodoro Technique](http://pomodorotechnique.com/) (read the [paper](assets/cirillo-pomodoro-technique.pdf))
 - Read [TODO List: One thing at a time!](https://joebew42.github.io/2020/07/08/todo/)
@@ -24,7 +24,7 @@ _Kick off your journey by learning how to stay focused, work iteratively, and em
 
 ## 📐 Session 1: SOLID and Clean Code
 
-_Discover the core design principles that help you write code that is easy to understand, change, and grow: the building blocks of sustainable software_
+> _Discover the core design principles that help you write code that is easy to understand, change, and grow: the building blocks of sustainable software_
 
 - Watch [Core Design Principles for Software Developers](https://www.youtube.com/watch?v=llGgO74uXMI)
 - Read the [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
@@ -52,7 +52,7 @@ _Discover the core design principles that help you write code that is easy to un
 
 ## 🔴🟢🔵 Session 2: Test-Driven Design (TDD)
 
-_Learn how tests can help to drive the design of your code, how tests can lead to a better feedback loop, and less code! A key skill in modern development workflows._
+> _Learn how tests can help to drive the design of your code, how tests can lead to a better feedback loop, and less code! A key skill in modern development workflows._
 
 - Read [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
   - Study the `Part I: The Money Example`
@@ -73,7 +73,7 @@ _Learn how tests can help to drive the design of your code, how tests can lead t
 
 ## 🌱 Session 3: Refactoring
 
-_Sharpen your ability to improve the design of your code without changing its behavior. Recognize code smells, apply refactoring techniques, and keep your systems clean over time._
+> _Sharpen your ability to improve the design of your code without changing its behavior. Recognize code smells, apply refactoring techniques, and keep your systems clean over time._
 
 - Watch [Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw)
 - Read [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
@@ -90,7 +90,7 @@ _Sharpen your ability to improve the design of your code without changing its be
 
 ## 🧓🏻 Session 4: Working with Legacy Code
 
-_Master strategies and techniques to safely work in large, untested, or unfamiliar codebases. One of the most valuable real-world development skills for people who are dealing with legacy code at daily basis._
+> _Master strategies and techniques to safely work in large, untested, or unfamiliar codebases. One of the most valuable real-world development skills for people who are dealing with legacy code at daily basis._
 
 - Read [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
   - Chapter 1: Changing Software
@@ -122,7 +122,7 @@ _Master strategies and techniques to safely work in large, untested, or unfamili
 
 ## 🔄 Session 5: Testing, Design and Test-Driven Development
 
-_Explore the deeper relationship between testing and good design. Learn how testability often leads to better architecture, modularity, and clarity._
+> _Explore the deeper relationship between testing and good design. Learn how testability often leads to better architecture, modularity, and clarity._
 
 - Watch [The deep synergy between testability and good design](https://www.youtube.com/watch?v=4cVZvoFGJTU)
 - Watch [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
@@ -148,7 +148,7 @@ _Explore the deeper relationship between testing and good design. Learn how test
 
 ## 🧸 Session 6: Practice with a new Programming Language
 
-_Apply your design and testing skills in a fresh language to reinforce your understanding and build true language-agnostic thinking._
+> _Apply your design and testing skills in a fresh language to reinforce your understanding and build true language-agnostic thinking._
 
 Principles and Practices are not dependent on any particular programming language, rather they act as support or enabler to learn and get comfortable with programming languages and tools we never used before.
 
@@ -169,7 +169,7 @@ If you are looking for more Code Katas to learn and practice with your new progr
 
 ## 🧼 Session 7: The Clean Architecture
 
-_Explore architectural choices that emphasize independence from frameworks, user interface, and databases, enabling a long-term flexibility and testability._
+> _Explore architectural choices that emphasize independence from frameworks, user interface, and databases, enabling a long-term flexibility and testability._
 
 - Read [Hexagonal Architecture](https://web.archive.org/web/20090122225311/http://alistair.cockburn.us/Hexagonal+architecture)
 - Read [The Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
@@ -191,7 +191,7 @@ _Explore architectural choices that emphasize independence from frameworks, user
 
 ## 🗣️ Session 8: Domain-Driven Design (DDD)
 
-_Dive into modeling complex business domains with more clarity. Learn how to make your code to speak the language of the business and build software that truly reflects it._
+> _Dive into modeling complex business domains with more clarity. Learn how to make your code to speak the language of the business and build software that truly reflects it._
 
 - Watch [Tackling Complexity in the Heart of Software](https://www.youtube.com/watch?v=dnUFEg68ESM)
 - Read [Domain-Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly)
@@ -211,7 +211,7 @@ _Dive into modeling complex business domains with more clarity. Learn how to mak
 
 ## 🔌 Session 9: Microservices
 
-_Understand how to better split systems into independently deployable services. Learn the benefits, trade-offs, and patterns that enables distributed architecture that better reflects business domains and support autonomous teams._
+> _Understand how to better split systems into independently deployable services. Learn the benefits, trade-offs, and patterns that enables distributed architecture that better reflects business domains and support autonomous teams._
 
 - Read [Microservices: A Definition of This New Architectural Term](https://martinfowler.com/articles/microservices.html)
 - Watch [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA)
@@ -244,7 +244,7 @@ _Understand how to better split systems into independently deployable services. 
 
 ## 🔭 Session 10: Further topics
 
-_Explore advanced techniques and design philosophies, from Event Sourcing to Simple Design, and more._
+> _Explore advanced techniques and design philosophies, from Event Sourcing to Simple Design, and more._
 
 - Simple Design
   - Read [Beck Design Rules](https://martinfowler.com/bliki/BeckDesignRules.html)
@@ -268,7 +268,7 @@ _Explore advanced techniques and design philosophies, from Event Sourcing to Sim
 
 ## 📚 Recommended Readings
 
-This section provides a list of recommended books readings that have not been mentioned directly in this study path, but of significant importance.
+> This section provides a list of recommended books readings that have not been mentioned directly in this study path, but of significant importance.
 
 - [The Nature of Software Development](https://www.amazon.com/Nature-Software-Development-Simple-Valuable/dp/1941222374)
 - [Extreme Programming Explained: Embrace Change (2nd Edition)](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B000OZ0N5S)

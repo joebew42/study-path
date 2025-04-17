@@ -216,6 +216,8 @@ If you are looking for more Code Katas to learn and practice with your new progr
   - [Implementing Domain-Driven Design](https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design)
   - [Domain-Driven Design Reference: Definitions and Pattern Summaries](https://www.goodreads.com/book/show/23322716-domain-driven-design-reference)
   - [Domain Modeling Made Functional](https://www.goodreads.com/book/show/34921689-domain-modeling-made-functional)
+- [Domain-Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process)
+  - A step-by-step guide for learning and practically applying each aspect of Domain-Driven Design (DDD) - from orienting around an organisation's business model to coding a domain model.
 
 ## 🔌 Session 9: Microservices
 

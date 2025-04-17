@@ -118,6 +118,8 @@ I am committed keeping this path up to date and valuable. If you have suggestion
   - Watch "Writing test cases using Approval Tests" ([Part I](https://www.youtube.com/watch?v=zyM2Ep28ED8), [Part II](https://www.youtube.com/watch?v=OJmg9aMxPDI), [Part III](https://www.youtube.com/watch?v=NADVhSjeyJA))
 - Watch [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
   - Exercise: Try to repeat the [Code Kata](https://github.com/sandromancuso/trip-service-kata)
+  - Watch the alternative version [Testing and Refactoring Legacy Code - The Trip Service Kata - Part I](https://www.youtube.com/watch?v=pmoLmjirmTk)
+    - And [Testing and Refactoring Legacy Code - The Trip Service Kata - Part II](https://www.youtube.com/watch?v=P1S9E_-yKBE): on OCP, Seam Model, and DIP.
 - Read more about [Approval Testing](http://www.methodsandtools.com/archive/approvaltest.php) and some examples:
   - [Characterization Testing](https://michaelfeathers.silvrback.com/characterization-testing)
   - [Mutation Testing](https://www.guru99.com/mutation-testing.html)

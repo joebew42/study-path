@@ -78,6 +78,7 @@ I am committed keeping this path up to date and valuable. If you have suggestion
     - Part 2: Catalog
 - Read [desirable properties of tests](https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3)
   - Watch [the video playlist](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl)
+- Read [Working Effectively with Unit Tests](https://leanpub.com/wewut/read)
 
 ## 🌱 Session 3: Refactoring
 
@@ -269,6 +270,7 @@ If you are looking for more Code Katas to learn and practice with your new progr
   - Read [The Four Elements of Simple Design](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design)
   - Read [Putting An Age-Old Battle To Rest](http://blog.thecodewhisperer.com/permalink/putting-an-age-old-battle-to-rest)
   - Read Chapter 12 of [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code): Emergence
+  - Read [Understanding the Four Rules of Simple Design](https://leanpub.com/4rulesofsimpledesign)
 - Watch Outside-in TDD ([part I](https://www.youtube.com/watch?v=XHnuMjah6ps) - [part II](https://www.youtube.com/watch?v=gs0rqDdz3ko) - [part III](https://www.youtube.com/watch?v=R9OAt9AOrzI))
 - Read [Test-Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
   - Patterns for Test-Driven Development

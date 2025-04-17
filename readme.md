@@ -187,6 +187,7 @@ If you are looking for more Code Katas to learn and practice with your new progr
   - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
   - [Implementing Domain-Driven Design](https://www.amazon.com/dp/0321834577)
   - [Domain-Driven Design Reference: Definitions and Pattern Summaries](https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198)
+  - [Domain Modeling Made Functional](https://www.goodreads.com/book/show/34921689-domain-modeling-made-functional)
 
 ## Session 9: Microservices
 

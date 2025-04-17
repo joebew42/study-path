@@ -1,8 +1,8 @@
-*This study path is released under the [**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) license*
+_This study path is released under the [**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) license_
 
 ## Introduction
 
-Welcome to a **Study Path on Software Development**: a curated, open, and ever-evolving learning journey focused on practices of software development, software design principles, and software architecture.
+Welcome to this **Study Path on Software Development**: a curated, open, and ever-evolving learning path focused on practices of software development, principles of software design, and software architecture.
 
 Whether you are interested in **Clean Code**, **Test-Driven Development**, **Refactoring**, **Clean Architecture**, **Legacy Code**, **Domain-Driven Design**, **Microservices**, or other essential topics, I hope you will find structured, high-quality resources here to guide with your growth.
 
@@ -258,7 +258,6 @@ If you are looking for more Code Katas to learn and practice with your new progr
 - The other way around: [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.goodreads.com/book/show/44144499-monolith-to-microservices)
   - Watch [Monolith Decomposition Patterns - Sam Newman](https://www.youtube.com/watch?v=64w1zbpHGTg)
   - Watch [microXchg 2016 - Rodrigue Schaefer : From monolith to microservices](https://www.youtube.com/watch?v=I9zpROdDf48)
-
 
 ## 🔭 Session 10: Further topics
 

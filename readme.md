@@ -95,6 +95,7 @@ I am committed keeping this path up to date and valuable. If you have suggestion
   - What Code Smells you have found?
     - What steps you followed to remove them?
     - What difficulties you have faced?
+- Try the [Refactoring Golf](https://github.com/daviddenton/refactoring-golf): Explore your IDE to see what's really possible using shortcuts and automation.
 
 ## 🧓🏻 Session 4: Working with Legacy Code
 

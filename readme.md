@@ -42,6 +42,7 @@ Enjoy!
   - Chapter 6: While You Are Coding
 - Read [The Art of Enbugging](http://www.ccs.neu.edu/research/demeter/related-work/pragmatic-programmer/jan_03_enbug.pdf): Tell, don't ask / Law of Demeter
 - Read [YAGNI](https://martinfowler.com/bliki/Yagni.html)
+- Watch [SOLID for functional programming](https://www.youtube.com/watch?v=rmftOs2BzgU) (a case study of SOLID principles applied in Elixir)
 
 ## Session 2: Test-Driven Development
 

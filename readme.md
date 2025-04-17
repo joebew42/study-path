@@ -12,13 +12,19 @@ I am willing to keep this study path always updated, and I would invite you to c
 
 Enjoy!
 
+## 🧭 Getting Started
 
+_Kick off your journey by learning how to stay focused, work iteratively, and embrace the mindset of continuous improvement through Agile values and time management techniques._
+
+- Get familiar with [the Pomodoro Technique](http://pomodorotechnique.com/) (read the [paper](assets/cirillo-pomodoro-technique.pdf))
 - Read [TODO List: One thing at a time!](https://joebew42.github.io/2020/07/08/todo/)
 - Read the [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 - Read the [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
 - Read the [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 
-## Session 1: SOLID and Clean Code
+## 📐 Session 1: SOLID and Clean Code
+
+_Discover the core design principles that help you write code that is easy to understand, change, and grow: the building blocks of sustainable software_
 
 - Watch [Core Design Principles for Software Developers](https://www.youtube.com/watch?v=llGgO74uXMI)
 - Read the [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
@@ -44,7 +50,9 @@ Enjoy!
 - Read [YAGNI](https://martinfowler.com/bliki/Yagni.html)
 - Watch [SOLID for functional programming](https://www.youtube.com/watch?v=rmftOs2BzgU) (a case study of SOLID principles applied in Elixir)
 
-## Session 2: Test-Driven Development
+## 🔴🟢🔵 Session 2: Test-Driven Design (TDD)
+
+_Learn how tests can help to drive the design of your code, how tests can lead to a better feedback loop, and less code! A key skill in modern development workflows._
 
 - Read [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530)
   - Study the `Part I: The Money Example`
@@ -63,7 +71,9 @@ Enjoy!
 - Read [desirable properties of tests](https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3)
   - Watch [the video playlist](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl)
 
-## Session 3: Refactoring
+## 🌱 Session 3: Refactoring
+
+_Sharpen your ability to improve the design of your code without changing its behavior. Recognize code smells, apply refactoring techniques, and keep your systems clean over time._
 
 - Watch [Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw)
 - Read [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
@@ -78,7 +88,9 @@ Enjoy!
     - What steps you followed to remove them?
     - What difficulties you have faced?
 
-## Session 4: Working with Legacy Code
+## 🧓🏻 Session 4: Working with Legacy Code
+
+_Master strategies and techniques to safely work in large, untested, or unfamiliar codebases. One of the most valuable real-world development skills for people who are dealing with legacy code at daily basis._
 
 - Read [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
   - Chapter 1: Changing Software
@@ -108,7 +120,9 @@ Enjoy!
   - Read the [Slides of the talk](https://www.slideshare.net/pierodibello/surviving-to-a-legacy-codebase-codemotion-berlin-2018-edition)
   - Have access to the [example code](https://github.com/xpepper/fifty-shades-of-legacy-goose-game) for further practice
 
-## Session 5: Testing, Design and Test-Driven Development
+## 🔄 Session 5: Testing, Design and Test-Driven Development
+
+_Explore the deeper relationship between testing and good design. Learn how testability often leads to better architecture, modularity, and clarity._
 
 - Watch [The deep synergy between testability and good design](https://www.youtube.com/watch?v=4cVZvoFGJTU)
 - Watch [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
@@ -132,7 +146,9 @@ Enjoy!
   - Try the [Game Of Life Kata](https://kata-log.rocks/game-of-life-kata)
   - Try the [Tic Tac Toe Kata](https://kata-log.rocks/tic-tac-toe-kata)
 
-## Session 6: Practice with a new Programming Language
+## 🧸 Session 6: Practice with a new Programming Language
+
+_Apply your design and testing skills in a fresh language to reinforce your understanding and build true language-agnostic thinking._
 
 Principles and Practices are not dependent on any particular programming language, rather they act as support or enabler to learn and get comfortable with programming languages and tools we never used before.
 
@@ -151,7 +167,9 @@ Now that you have learned something about _the good principles and practices of 
 
 If you are looking for more Code Katas to learn and practice with your new programming language, try to give a look at [Kata-Log](https://kata-log.rocks/).
 
-## Session 7: The Clean Architecture
+## 🧼 Session 7: The Clean Architecture
+
+_Explore architectural choices that emphasize independence from frameworks, user interface, and databases, enabling a long-term flexibility and testability._
 
 - Read [Hexagonal Architecture](https://web.archive.org/web/20090122225311/http://alistair.cockburn.us/Hexagonal+architecture)
 - Read [The Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
@@ -171,7 +189,9 @@ If you are looking for more Code Katas to learn and practice with your new progr
   - Write a suite of tests to check the deployed application is working as expected
 - Take a look at this [reference implementation on Clean Architecture](https://github.com/ivanpaulovich/clean-architecture-manga)
 
-## Session 8: Domain-Driven Design
+## 🗣️ Session 8: Domain-Driven Design (DDD)
+
+_Dive into modeling complex business domains with more clarity. Learn how to make your code to speak the language of the business and build software that truly reflects it._
 
 - Watch [Tackling Complexity in the Heart of Software](https://www.youtube.com/watch?v=dnUFEg68ESM)
 - Read [Domain-Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly)
@@ -189,7 +209,9 @@ If you are looking for more Code Katas to learn and practice with your new progr
   - [Domain-Driven Design Reference: Definitions and Pattern Summaries](https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198)
   - [Domain Modeling Made Functional](https://www.goodreads.com/book/show/34921689-domain-modeling-made-functional)
 
-## Session 9: Microservices
+## 🔌 Session 9: Microservices
+
+_Understand how to better split systems into independently deployable services. Learn the benefits, trade-offs, and patterns that enables distributed architecture that better reflects business domains and support autonomous teams._
 
 - Read [Microservices: A Definition of This New Architectural Term](https://martinfowler.com/articles/microservices.html)
 - Watch [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA)
@@ -220,7 +242,9 @@ If you are looking for more Code Katas to learn and practice with your new progr
   - Watch [Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8)
 - Access to more [examples and resources](https://gist.github.com/pdincau/8e6d42dfc44cf158e70293604bae0c17)
 
-## Session 10: Further topics
+## 🔭 Session 10: Further topics
+
+_Explore advanced techniques and design philosophies, from Event Sourcing to Simple Design, and more._
 
 - Simple Design
   - Read [Beck Design Rules](https://martinfowler.com/bliki/BeckDesignRules.html)
@@ -240,8 +264,9 @@ If you are looking for more Code Katas to learn and practice with your new progr
   - Try the [Salary Slip Kata](https://github.com/sandromancuso/salaryslipkata)
   - Try the [Bank Account Kata](https://github.com/sandromancuso/Bank-kata)
     - Try to implement a variant using a CQRS/ES approach
+- Read [Growing systems towards DDD, Event-Sourcing and Event-Driven architecture](https://joebew42.github.io/2025/04/06/growing-systems-towards-ddd-event-sourcing-and-event-driven-architecture/)
 
-## Recommended Readings
+## 📚 Recommended Readings
 
 This section provides a list of recommended books readings that have not been mentioned directly in this study path, but of significant importance.
 

@@ -249,6 +249,8 @@ If you are looking for more Code Katas to learn and practice with your new progr
   - Watch [Using sagas to maintain data consistency in a microservice architecture](https://www.youtube.com/watch?v=YPbGW3Fnmbc)
   - Watch [Applying the Saga Pattern](https://www.youtube.com/watch?v=xDuwrtwYHu8)
 - Access to more [examples and resources](https://gist.github.com/pdincau/8e6d42dfc44cf158e70293604bae0c17)
+- The other way around: [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.goodreads.com/book/show/44144499-monolith-to-microservices)
+
 
 ## 🔭 Session 10: Further topics
 
